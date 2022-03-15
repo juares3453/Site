@@ -1,0 +1,2031 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LISTING LANG="pt-BR" ONLINE="Y" CUSTOMERNUMBER="475" ID="orcamento_resumido" DESCRIPTION="Orçamento Resumido" DATE="01/10/2021" HOUR="14:12:52" CLIENTLOGO="%pastasistema%\identity\logoCliente.gif" CURRENCYSYMBOL="R$" IDTYPE="orcamento_resumido" UNIT="mm" AMBIENTS="3\0" QUANTITYINCREASE="N" DEFAULTPRICETABLEUSED="Y" PRICETABLEUSED="" ONLYSELECTEDITEMS="N" ALLOWSUPPLEMENTARYITEMS="Y" ALLOWEXTRAITEMS="Y" HASNOTAVAILABLEITEMS="N" HASCHANGEDDIMENSIONITEMS="N" AREASPROCESSED="N" TRANSLATEDESCRIPTIONS="N" SERIALIZEATTRIBUTES="N">
+  <PROJECTGUID GUID="e583bd74-d0a7-4f8b-93f8-823f6b39217c" />
+  <ABOUTPROMOB VERSION="5" REVISION="60" BUILD="16" SYSTEM="Casa Brasileira" SYSTEMID="1055" DISTRIBUTION="Studio" SERIALNUMBER="49200196" PRODUCTCODE="1U68YXH3D7" CUSTOMERNUMBER="477" SYSTEMREVISION="03/09/2021 13:51:21">
+    <LIBRARIES>
+      <LIBRARY LINE="bibliotecas" REVISION="RV03" VERSION="09_AGO_2021" />
+      <LIBRARY LINE="cozinhas_planejadas" REVISION="RV03" VERSION="09_AGO_2021" />
+      <LIBRARY LINE="acessorios" REVISION="RV03" VERSION="09_AGO_2021" />
+      <LIBRARY LINE="home" REVISION="RV03" VERSION="09_AGO_2021" />
+      <LIBRARY LINE="decore" REVISION="2014" VERSION="09_AGO_2021" />
+      <LIBRARY LINE="Ancezki" REVISION="RV03" VERSION="09_AGO_2021" />
+      <LIBRARY LINE="dor_pla" REVISION="RV03" VERSION="09_AGO_2021" />
+      <LIBRARY LINE="tel_prat_" REVISION="RV03" VERSION="09_AGO_2021" />
+    </LIBRARIES>
+  </ABOUTPROMOB>
+  <CUSTOMERSDATA>
+    <DATA ID="cep" VALUE="80050380" />
+    <DATA ID="uf" VALUE="PR" />
+    <DATA ID="rep_telefoneempresa" VALUE="(11) 5670 8600" />
+    <DATA ID="rep_cidadeempresa" VALUE="Curitiba" />
+    <DATA ID="nomecliente" VALUE="JULIA MARQUES BENITES" />
+    <DATA ID="observacoes" VALUE="" />
+    <DATA ID="fone" VALUE="" />
+    <DATA ID="bairro" VALUE="Cristo Rei" />
+    <DATA ID="codcliente" VALUE="" />
+    <DATA ID="rep_contatoempresa" VALUE="" />
+    <DATA ID="endentrega" VALUE="" />
+    <DATA ID="email" VALUE="juliam.benites@hotmail.com" />
+    <DATA ID="rep_cepenpresa" VALUE="82590100" />
+    <DATA ID="rep_emailempresa" VALUE="" />
+    <DATA ID="rep_ufempresa" VALUE="PR" />
+    <DATA ID="rep_bairroempresa" VALUE="Alto" />
+    <DATA ID="cpfcnpj" VALUE="04549755970" />
+    <DATA ID="endereco" VALUE="Rua Sanito Rocha, 207" />
+    <DATA ID="rep_nomeempresa" VALUE="LEROY MERLIN COMPANHIA BRASILEIRA DE BRICOLAGEM" />
+    <DATA ID="cidade" VALUE="Curitiba" />
+    <DATA ID="celular" VALUE="(41) 9980 78650" />
+    <DATA ID="rep_enderecoempresa" VALUE="Rodovia BR-116, 600" />
+  </CUSTOMERSDATA>
+  <TOTALPRICES TABLE="3315.26">
+    <EXTRAINFORMATIONS>
+      <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0" TOTALVALUE="0" UNITVALUE="0" />
+      <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0" TOTALVALUE="0" UNITVALUE="0" />
+    </EXTRAINFORMATIONS>
+    <MARGINS>
+      <ORDER VALUE="3081.41">
+        <MARGIN ID="icms" DESCRIPTION="ICMS" VALUE="452.08" />
+        <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" VALUE="-678.17" />
+        <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" VALUE="-154.5" />
+        <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" VALUE="0" />
+        <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" VALUE="0" />
+        <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" VALUE="0" />
+        <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" VALUE="0" />
+        <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" VALUE="146.74" />
+      </ORDER>
+      <BUDGET VALUE="5423.29">
+        <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" VALUE="1867.25" />
+        <MARGIN ID="frete" DESCRIPTION="Frete" VALUE="0" />
+        <MARGIN ID="montagem" DESCRIPTION="Montagem" VALUE="0" />
+        <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Puxadores" VALUE="136.88" />
+        <MARGIN ID="montagem" DESCRIPTION="Frete" VALUE="0" />
+        <MARGIN ID="frete" DESCRIPTION="Montagem" VALUE="0" />
+        <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" VALUE="337.75" />
+      </BUDGET>
+    </MARGINS>
+  </TOTALPRICES>
+  <AMBIENTS>
+    <AMBIENT GUID="75718bfd-b60b-4117-80d0-2cbef2e195c6" DESCRIPTION="Cozinha - Ambiente 3D" UNIQUEID="3\0">
+      <TOTALPRICES TABLE="3315.26">
+        <EXTRAINFORMATIONS>
+          <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0" TOTALVALUE="0" UNITVALUE="0" />
+          <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0" TOTALVALUE="0" UNITVALUE="0" />
+        </EXTRAINFORMATIONS>
+        <MARGINS>
+          <ORDER VALUE="3081.41">
+            <MARGIN ID="icms" DESCRIPTION="ICMS" VALUE="452.08" />
+            <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" VALUE="-678.17" />
+            <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" VALUE="-154.5" />
+            <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" VALUE="0" />
+            <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" VALUE="0" />
+            <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" VALUE="0" />
+            <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" VALUE="0" />
+            <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" VALUE="146.74" />
+          </ORDER>
+          <BUDGET VALUE="5423.29">
+            <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" VALUE="1867.25" />
+            <MARGIN ID="frete" DESCRIPTION="Frete" VALUE="0" />
+            <MARGIN ID="montagem" DESCRIPTION="Montagem" VALUE="0" />
+            <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Puxadores" VALUE="136.88" />
+            <MARGIN ID="montagem" DESCRIPTION="Frete" VALUE="0" />
+            <MARGIN ID="frete" DESCRIPTION="Montagem" VALUE="0" />
+            <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" VALUE="337.75" />
+          </BUDGET>
+        </MARGINS>
+      </TOTALPRICES>
+      <MODELINFORMATIONS>
+        <MODELCATEGORYINFORMATIONS>
+          <MODELCATEGORYINFORMATION DESCRIPTION="Cozinhas">
+            <MODELINFORMATIONS>
+              <MODELINFORMATION DESCRIPTION="Corpos" ID="coz_pla_corpos">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="MDF 15mm\05 - Branco" ID="ModeloTipo44051383" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Pés/Rodapés" ID="coz_pla_rod_rod_cto_ret_dir">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="Sem Pés/Rodapés" ID="coz_pla_rod_s_rod_3" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Acab Frentes Normais" ID="coz_pla_portas_normais">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="18mm MDF BP Alto Brilho\1041 - Seda" ID="coz_fre_nor_1041_sed" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Frentes" ID="coz_pla_mod_fre_inf">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="Normais" ID="coz_pla_mod_fre_inf_467" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Suporte Fixação Cx. 15mm" ID="coz_mod_for_sup_15_inf">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="Alvenaria" ID="coz_mod_for_sup_15_inf_alv" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Corpo Gaveta" ID="coz_mod_for_gav_bai">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="Telescópica Prof. 440mm" ID="coz_mod_for_gav_bai_prof_440" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Acessórios p/ Gaveta" ID="coz_mod_for_tel_div_org_prof_440">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="Div. Talheres - 1ª Gav." ID="coz_mod_for_tel_div_org_prof_440_tal_2" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+            </MODELINFORMATIONS>
+          </MODELCATEGORYINFORMATION>
+          <MODELCATEGORYINFORMATION DESCRIPTION="Acessórios">
+            <MODELINFORMATIONS>
+              <MODELINFORMATION DESCRIPTION="Puxadores" ID="ace_pux_con">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="Alumínio\Olimpo\Escovado F 160mm (A0000013)" ID="ace_pux_con_alu_oli_160" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Dobradiças Cozinhas/Home" ID="ace_mod_for_dob_coz_hom_ret">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="Metálica" ID="ace_mod_for_dob_coz_hom_ret_met" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Tampas Adesivas" ID="ace_tam_ade">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="Branco" ID="ace_tam_ade_bra" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Corrediças" ID="ace_mod_for_cor_tel_mai">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="450 Corrediça Telescópica" ID="ace_mod_for_cor_tel_mai_450" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Suportes de Fixação" ID="ace_sup_fix">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="05 – Branco" ID="ace_sup_fix_bra" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+            </MODELINFORMATIONS>
+          </MODELCATEGORYINFORMATION>
+          <MODELCATEGORYINFORMATION DESCRIPTION="Prateleiras">
+            <MODELINFORMATIONS>
+              <MODELINFORMATION DESCRIPTION="Prateleiras 18mm" ID="tel_prat_18mm">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="MDF\1047 - Branco" ID="tel_prat_18mm_1047_MDF" />
+                  <MODELTYPEINFORMATION DESCRIPTION="MDP\1048 - Branco" ID="tel_prat_18mm_1048_MDP" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Molduras" ID="tel_mol">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="MDF BP Alto Brilho&gt;1041 - Seda" ID="tel_mol_mdf_alt_bri;pra_ass_mdf_alt_bri_sed" />
+                  <MODELTYPEINFORMATION DESCRIPTION="MDP\1046 - Branco" ID="tel_mol_07_MDP" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+            </MODELINFORMATIONS>
+          </MODELCATEGORYINFORMATION>
+        </MODELCATEGORYINFORMATIONS>
+      </MODELINFORMATIONS>
+      <CATEGORIES>
+        <CATEGORY DESCRIPTION="Acessórios">
+          <TOTALPRICES TABLE="573.54">
+            <EXTRAINFORMATIONS>
+              <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0" TOTALVALUE="0" UNITVALUE="0" />
+              <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0" TOTALVALUE="0" UNITVALUE="0" />
+            </EXTRAINFORMATIONS>
+            <MARGINS>
+              <ORDER VALUE="533.06">
+                <MARGIN ID="icms" DESCRIPTION="ICMS" VALUE="78.21" />
+                <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" VALUE="-117.34" />
+                <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" VALUE="-26.74" />
+                <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" VALUE="0" />
+                <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" VALUE="0" />
+                <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" VALUE="0" />
+                <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" VALUE="0" />
+                <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" VALUE="25.39" />
+              </ORDER>
+              <BUDGET VALUE="938.2">
+                <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" VALUE="268.26" />
+                <MARGIN ID="frete" DESCRIPTION="Frete" VALUE="0" />
+                <MARGIN ID="montagem" DESCRIPTION="Montagem" VALUE="0" />
+                <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Puxadores" VALUE="136.88" />
+              </BUDGET>
+            </MARGINS>
+          </TOTALPRICES>
+          <ITEMS>
+            <ITEM ID="ace_aux_kit_cartela_batentes" DESCRIPTION="Cartela De Batentes S/Logo C/128 Unid" OBSERVATIONS="" REFERENCE="NA-0010-00" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="100" HEIGHT="100" DEPTH="100" TEXTDIMENSION="100 x 100 x 100" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Kits" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\acessorios\auxiliares\kits\20121004164359.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4810" UNIQUEPARENTID="-2" GUID="4ad52da9-134a-4035-b5cf-8f2a3e108771" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="15.52" UNIT="15.52" TOTAL="15.52">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="14.43" TOTAL="14.43">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="15.52" INVALUE="15.52" OUTVALUE="17.64" MONETARYVALUE="2.12" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="17.64" INVALUE="17.64" OUTVALUE="14.46" MONETARYVALUE="-3.18" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="14.46" INVALUE="14.46" OUTVALUE="13.74" MONETARYVALUE="-0.72" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="13.74" INVALUE="13.74" OUTVALUE="13.74" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="13.74" INVALUE="13.74" OUTVALUE="13.74" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="13.74" INVALUE="13.74" OUTVALUE="13.74" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="13.74" INVALUE="13.74" OUTVALUE="13.74" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="13.74" INVALUE="13.74" OUTVALUE="14.43" MONETARYVALUE="0.69" />
+                  </ORDER>
+                  <BUDGET UNIT="25.4" TOTAL="25.4">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="14.43" INVALUE="14.43" OUTVALUE="25.4" MONETARYVALUE="10.97" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="25.4" INVALUE="25.4" OUTVALUE="25.4" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="25.4" INVALUE="25.4" OUTVALUE="25.4" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="NA-0010-00" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="NA-0010" />
+                <MODEL REFERENCE="00" />
+                <PRICE REFERENCE="NA-0010-00" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_div_cor_tel_450" DESCRIPTION="Corrediça Metal Zincada Compr.: 450mm Telescópica TT 145" OBSERVATIONS="" REFERENCE="ML-0026-00" UNIT="un" REPETITION="1" QUANTITY="4" WIDTH="100" HEIGHT="45.4" DEPTH="450" TEXTDIMENSION="100 x 45,4 x 450" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Corrediças Telescópicas" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\acessorios\Diversos\Corredicas_Telescopicas\corredica_telescopica.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4017" UNIQUEPARENTID="4021" GUID="1ba5f9bc-8325-40f5-ba16-1b5286157ac3" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="4017;4351;4291;4065" />
+              </METADATAS>
+              <PRICE TABLE="27.09" UNIT="108.36" TOTAL="108.36">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="100.72" TOTAL="100.72">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="108.36" INVALUE="108.36" OUTVALUE="123.14" MONETARYVALUE="14.78" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="123.14" INVALUE="123.14" OUTVALUE="100.97" MONETARYVALUE="-22.17" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="100.97" INVALUE="100.97" OUTVALUE="95.92" MONETARYVALUE="-5.05" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="95.92" INVALUE="95.92" OUTVALUE="95.92" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="95.92" INVALUE="95.92" OUTVALUE="95.92" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="95.92" INVALUE="95.92" OUTVALUE="95.92" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="95.92" INVALUE="95.92" OUTVALUE="95.92" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="95.92" INVALUE="95.92" OUTVALUE="100.72" MONETARYVALUE="4.8" />
+                  </ORDER>
+                  <BUDGET UNIT="177.27" TOTAL="177.27">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="100.72" INVALUE="100.72" OUTVALUE="177.27" MONETARYVALUE="76.55" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="177.27" INVALUE="177.27" OUTVALUE="177.27" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="177.27" INVALUE="177.27" OUTVALUE="177.27" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="ML-0026-00" />
+                <CODE REFERENCE="ML-0026" />
+                <MODEL REFERENCE="00" />
+                <PRICE REFERENCE="ML-0026-00" />
+                <ABERTURA_CORREDICA REFERENCE="450" />
+                <TIPO_CORREDICA REFERENCE="NORMAL" />
+                <CODE_CORREDICA REFERENCE="01" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_coz_gav_tel_prof_440_div_tal" DESCRIPTION="Divisor de Talheres p/ Gaveta 400mm" OBSERVATIONS="" REFERENCE="A0000724" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="312" HEIGHT="45" DEPTH="408" TEXTDIMENSION="312 x 45 x 408" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Gavetas Telescópicas Prof. 440mm" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\acessorios\Cozinhas\Gavetas_Telescopicas_Prof_440\div_tal.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4007" UNIQUEPARENTID="4021" GUID="e19991e9-b586-493f-9499-6a4470906fc8" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="17.83" UNIT="17.83" TOTAL="17.83">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="16.57" TOTAL="16.57">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="17.83" INVALUE="17.83" OUTVALUE="20.26" MONETARYVALUE="2.43" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="20.26" INVALUE="20.26" OUTVALUE="16.61" MONETARYVALUE="-3.65" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="16.61" INVALUE="16.61" OUTVALUE="15.78" MONETARYVALUE="-0.83" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="15.78" INVALUE="15.78" OUTVALUE="15.78" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="15.78" INVALUE="15.78" OUTVALUE="15.78" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="15.78" INVALUE="15.78" OUTVALUE="15.78" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="15.78" INVALUE="15.78" OUTVALUE="15.78" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="15.78" INVALUE="15.78" OUTVALUE="16.57" MONETARYVALUE="0.79" />
+                  </ORDER>
+                  <BUDGET UNIT="29.16" TOTAL="29.16">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="16.57" INVALUE="16.57" OUTVALUE="29.16" MONETARYVALUE="12.59" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="29.16" INVALUE="29.16" OUTVALUE="29.16" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="29.16" INVALUE="29.16" OUTVALUE="29.16" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="A0000724" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="A0000724" />
+                <FOCCO_CODE REFERENCE="A0000724" />
+                <PRICE REFERENCE="A0000724" />
+                <TIPO REFERENCE="NAO_TEM" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_ocu_gab_G39" DESCRIPTION="Gabarito Montagem G39 - Puxadores" OBSERVATIONS="" REFERENCE="G39" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="1" HEIGHT="1" DEPTH="1" TEXTDIMENSION="1 x 1  x 1" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Gabaritos &gt;Orçados&lt;" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\acessorios\Ocultos\Gabaritos" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="5006" UNIQUEPARENTID="5008" GUID="055774c6-fa01-4e94-b846-7e0c1321c256" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="5006;4857;4853;4865;4861;4845;4837;4829;4825;4881;4877;4885;4889;4893" />
+              </METADATAS>
+              <PRICE TABLE="0.78" UNIT="0.78" TOTAL="0.78">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="0.72" TOTAL="0.72">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="0.78" INVALUE="0.78" OUTVALUE="0.89" MONETARYVALUE="0.11" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="0.89" INVALUE="0.89" OUTVALUE="0.73" MONETARYVALUE="-0.16" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="0.73" INVALUE="0.73" OUTVALUE="0.69" MONETARYVALUE="-0.04" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.69" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.69" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.69" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.69" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.72" MONETARYVALUE="0.03" />
+                  </ORDER>
+                  <BUDGET UNIT="1.27" TOTAL="1.27">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="0.72" INVALUE="0.72" OUTVALUE="1.27" MONETARYVALUE="0.55" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="1.27" INVALUE="1.27" OUTVALUE="1.27" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="1.27" INVALUE="1.27" OUTVALUE="1.27" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="G39" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="G39" />
+                <FOCCO_CODE REFERENCE="G39" />
+                <PRICE REFERENCE="G39" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_ocu_gab_G78" DESCRIPTION="Gabarito Montagem G73 N/C-MDF Gavetas Cx 15mm" OBSERVATIONS="" REFERENCE="G73" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="1" HEIGHT="1" DEPTH="1" TEXTDIMENSION="1 x 1  x 1" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Gabaritos &gt;Orçados&lt;" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\acessorios\Ocultos\Gabaritos" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4023" UNIQUEPARENTID="4189" GUID="2513ff83-76d1-45ca-b5ef-edce44ca9972" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="4023;4357;4297;4071" />
+              </METADATAS>
+              <PRICE TABLE="0.78" UNIT="0.78" TOTAL="0.78">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="0.72" TOTAL="0.72">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="0.78" INVALUE="0.78" OUTVALUE="0.89" MONETARYVALUE="0.11" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="0.89" INVALUE="0.89" OUTVALUE="0.73" MONETARYVALUE="-0.16" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="0.73" INVALUE="0.73" OUTVALUE="0.69" MONETARYVALUE="-0.04" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.69" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.69" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.69" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.69" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.72" MONETARYVALUE="0.03" />
+                  </ORDER>
+                  <BUDGET UNIT="1.27" TOTAL="1.27">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="0.72" INVALUE="0.72" OUTVALUE="1.27" MONETARYVALUE="0.55" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="1.27" INVALUE="1.27" OUTVALUE="1.27" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="1.27" INVALUE="1.27" OUTVALUE="1.27" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="G73" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="G73" />
+                <FOCCO_CODE REFERENCE="G73" />
+                <PRICE REFERENCE="G73" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_dob_coz_NA8605" DESCRIPTION="Kit c/ 02 Dobradiças 35 Bx Cozinha" OBSERVATIONS="" REFERENCE="NA-8605-00" UNIT="un" REPETITION="1" QUANTITY="6" WIDTH="100" HEIGHT="100" DEPTH="100" TEXTDIMENSION="100 x 100 x 100" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Metálica" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\acessorios\Dobradicas\Cozinhas\metalica\NA8605.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="5022" UNIQUEPARENTID="-2" GUID="71ffd713-7a5b-44c3-ac55-b91907af2545" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="5022;4527;4493;4602;4679;4741" />
+              </METADATAS>
+              <PRICE TABLE="8.62" UNIT="51.72" TOTAL="51.72">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="48.07" TOTAL="48.07">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="51.72" INVALUE="51.72" OUTVALUE="58.77" MONETARYVALUE="7.05" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="58.77" INVALUE="58.77" OUTVALUE="48.19" MONETARYVALUE="-10.58" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="48.19" INVALUE="48.19" OUTVALUE="45.78" MONETARYVALUE="-2.41" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="45.78" INVALUE="45.78" OUTVALUE="45.78" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="45.78" INVALUE="45.78" OUTVALUE="45.78" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="45.78" INVALUE="45.78" OUTVALUE="45.78" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="45.78" INVALUE="45.78" OUTVALUE="45.78" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="45.78" INVALUE="45.78" OUTVALUE="48.07" MONETARYVALUE="2.29" />
+                  </ORDER>
+                  <BUDGET UNIT="84.6" TOTAL="84.6">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="48.07" INVALUE="48.07" OUTVALUE="84.6" MONETARYVALUE="36.53" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="84.6" INVALUE="84.6" OUTVALUE="84.6" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="84.6" INVALUE="84.6" OUTVALUE="84.6" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="NA-8605-00" />
+                <CODE REFERENCE="NA-8605" />
+                <FOCCO_CODE REFERENCE="NA-8605" />
+                <PRICE REFERENCE="NA-8605-00" />
+                <TIPO REFERENCE="NAO_TEM" />
+                <DOBRADICA_SELECT REFERENCE="METALICA" />
+                <MODEL REFERENCE="00" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_dob_coz_NA8606" DESCRIPTION="Kit c/ 03 Dobradiças 35 Bx Cozinha" OBSERVATIONS="" REFERENCE="NA-8606-00" UNIT="un" REPETITION="1" QUANTITY="4" WIDTH="100" HEIGHT="100" DEPTH="100" TEXTDIMENSION="100 x 100 x 100" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Metálica" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\acessorios\Dobradicas\Cozinhas\metalica\NA8606.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="3698" UNIQUEPARENTID="3689" GUID="e138c438-b7a9-438b-b5ce-7c549fcc7976" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="3698;3677;3615;3722" />
+              </METADATAS>
+              <PRICE TABLE="12.91" UNIT="51.64" TOTAL="51.64">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="48" TOTAL="48">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="51.64" INVALUE="51.64" OUTVALUE="58.68" MONETARYVALUE="7.04" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="58.68" INVALUE="58.68" OUTVALUE="48.12" MONETARYVALUE="-10.56" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="48.12" INVALUE="48.12" OUTVALUE="45.71" MONETARYVALUE="-2.41" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="45.71" INVALUE="45.71" OUTVALUE="45.71" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="45.71" INVALUE="45.71" OUTVALUE="45.71" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="45.71" INVALUE="45.71" OUTVALUE="45.71" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="45.71" INVALUE="45.71" OUTVALUE="45.71" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="45.71" INVALUE="45.71" OUTVALUE="48" MONETARYVALUE="2.29" />
+                  </ORDER>
+                  <BUDGET UNIT="84.48" TOTAL="84.48">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="48" INVALUE="48" OUTVALUE="84.48" MONETARYVALUE="36.48" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="84.48" INVALUE="84.48" OUTVALUE="84.48" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="84.48" INVALUE="84.48" OUTVALUE="84.48" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="NA-8606-00" />
+                <CODE REFERENCE="NA-8606" />
+                <FOCCO_CODE REFERENCE="NA-8606" />
+                <PRICE REFERENCE="NA-8606-00" />
+                <TIPO REFERENCE="NAO_TEM" />
+                <DOBRADICA_SELECT REFERENCE="METALICA" />
+                <MODEL REFERENCE="00" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_aux_NA0080" DESCRIPTION="Kit c/ 100 parafusos 3,5x25cc" OBSERVATIONS="" REFERENCE="NA-0080-00" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="100" HEIGHT="100" DEPTH="100" TEXTDIMENSION="100 x 100 x 100" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Kits" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\acessorios\auxiliares\kits\NA0080.JPG" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4798" UNIQUEPARENTID="-2" GUID="e1400648-1d53-4582-83d4-d2e569859181" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="6.61" UNIT="6.61" TOTAL="6.61">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="6.14" TOTAL="6.14">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="6.61" INVALUE="6.61" OUTVALUE="7.51" MONETARYVALUE="0.9" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="7.51" INVALUE="7.51" OUTVALUE="6.16" MONETARYVALUE="-1.35" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="6.16" INVALUE="6.16" OUTVALUE="5.85" MONETARYVALUE="-0.31" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="5.85" INVALUE="5.85" OUTVALUE="5.85" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="5.85" INVALUE="5.85" OUTVALUE="5.85" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="5.85" INVALUE="5.85" OUTVALUE="5.85" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="5.85" INVALUE="5.85" OUTVALUE="5.85" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="5.85" INVALUE="5.85" OUTVALUE="6.14" MONETARYVALUE="0.29" />
+                  </ORDER>
+                  <BUDGET UNIT="10.81" TOTAL="10.81">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="6.14" INVALUE="6.14" OUTVALUE="10.81" MONETARYVALUE="4.67" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="10.81" INVALUE="10.81" OUTVALUE="10.81" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="10.81" INVALUE="10.81" OUTVALUE="10.81" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="NA-0080-00" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="NA-0080" />
+                <MODEL REFERENCE="00" />
+                <PRICE REFERENCE="NA-0080-00" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_aux_NA0081" DESCRIPTION="Kit c/ 100 parafusos 3,5x30cc" OBSERVATIONS="" REFERENCE="NA-0081-00" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="100" HEIGHT="100" DEPTH="100" TEXTDIMENSION="100 x 100 x 100" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Kits" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\acessorios\auxiliares\kits\NA0081.JPG" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4800" UNIQUEPARENTID="-2" GUID="54051b3e-203c-4166-af70-bfc48b51ba3a" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="7.07" UNIT="7.07" TOTAL="7.07">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="6.56" TOTAL="6.56">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="7.07" INVALUE="7.07" OUTVALUE="8.03" MONETARYVALUE="0.96" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="8.03" INVALUE="8.03" OUTVALUE="6.58" MONETARYVALUE="-1.45" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="6.58" INVALUE="6.58" OUTVALUE="6.25" MONETARYVALUE="-0.33" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="6.25" INVALUE="6.25" OUTVALUE="6.25" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="6.25" INVALUE="6.25" OUTVALUE="6.25" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="6.25" INVALUE="6.25" OUTVALUE="6.25" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="6.25" INVALUE="6.25" OUTVALUE="6.25" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="6.25" INVALUE="6.25" OUTVALUE="6.56" MONETARYVALUE="0.31" />
+                  </ORDER>
+                  <BUDGET UNIT="11.55" TOTAL="11.55">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="6.56" INVALUE="6.56" OUTVALUE="11.55" MONETARYVALUE="4.99" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="11.55" INVALUE="11.55" OUTVALUE="11.55" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="11.55" INVALUE="11.55" OUTVALUE="11.55" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="NA-0081-00" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="NA-0081" />
+                <MODEL REFERENCE="00" />
+                <PRICE REFERENCE="NA-0081-00" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_aux_kit_2A054000" DESCRIPTION="Kit C/10 Suportes Zamack S/Pino e 20 Parafusos" OBSERVATIONS="" REFERENCE="2A-0540-00" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="100" HEIGHT="100" DEPTH="100" TEXTDIMENSION="100 x 100 x 100" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Kits" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\acessorios\auxiliares\kits\sup_zam_s_pino.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4812" UNIQUEPARENTID="-2" GUID="fa5bac7b-8511-466a-bfca-7abc74152543" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="7.22" UNIT="7.22" TOTAL="7.22">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="6.7" TOTAL="6.7">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="7.22" INVALUE="7.22" OUTVALUE="8.2" MONETARYVALUE="0.98" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="8.2" INVALUE="8.2" OUTVALUE="6.72" MONETARYVALUE="-1.48" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="6.72" INVALUE="6.72" OUTVALUE="6.38" MONETARYVALUE="-0.34" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="6.38" INVALUE="6.38" OUTVALUE="6.38" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="6.38" INVALUE="6.38" OUTVALUE="6.38" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="6.38" INVALUE="6.38" OUTVALUE="6.38" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="6.38" INVALUE="6.38" OUTVALUE="6.38" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="6.38" INVALUE="6.38" OUTVALUE="6.7" MONETARYVALUE="0.32" />
+                  </ORDER>
+                  <BUDGET UNIT="11.79" TOTAL="11.79">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="6.7" INVALUE="6.7" OUTVALUE="11.79" MONETARYVALUE="5.09" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="11.79" INVALUE="11.79" OUTVALUE="11.79" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="11.79" INVALUE="11.79" OUTVALUE="11.79" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="2A-0540-00" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="2A-0540" />
+                <MODEL REFERENCE="00" />
+                <PRICE REFERENCE="2A-0540-00" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_esp15_com_sup_fix_L_met" DESCRIPTION="Kit Fer Sup Fixacao Alvenaria c/02 c/ Capa Branco" OBSERVATIONS="" REFERENCE="A0000903-05" UNIT="un" REPETITION="1" QUANTITY="15" WIDTH="100" HEIGHT="100" DEPTH="100" TEXTDIMENSION="100 x 100 x 100" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Suportes de Fixação" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\Acabamentos\sup_fix\2A-0274_1.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="5028" UNIQUEPARENTID="-2" GUID="efa071d8-8184-45f9-95a0-8135fec4385a" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="5028;5153;5065;5063;5061;5059;5057;5056;3683;3742;4183;4531;4615;4692;4745" />
+              </METADATAS>
+              <PRICE TABLE="3.34" UNIT="50.1" TOTAL="50.1">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="46.57" TOTAL="46.57">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="50.1" INVALUE="50.1" OUTVALUE="56.93" MONETARYVALUE="6.83" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="56.93" INVALUE="56.93" OUTVALUE="46.68" MONETARYVALUE="-10.25" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="46.68" INVALUE="46.68" OUTVALUE="44.35" MONETARYVALUE="-2.33" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="44.35" INVALUE="44.35" OUTVALUE="44.35" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="44.35" INVALUE="44.35" OUTVALUE="44.35" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="44.35" INVALUE="44.35" OUTVALUE="44.35" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="44.35" INVALUE="44.35" OUTVALUE="44.35" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="44.35" INVALUE="44.35" OUTVALUE="46.57" MONETARYVALUE="2.22" />
+                  </ORDER>
+                  <BUDGET UNIT="81.96" TOTAL="81.96">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="46.57" INVALUE="46.57" OUTVALUE="81.96" MONETARYVALUE="35.39" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="81.96" INVALUE="81.96" OUTVALUE="81.96" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="81.96" INVALUE="81.96" OUTVALUE="81.96" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="A0000903-05" />
+                <MODELNAME REFERENCE="MDF 15mm\05 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="A0000903" />
+                <MODEL REFERENCE="05" />
+                <PRICE REFERENCE="A0000903-05" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_tam_ade_13m" DESCRIPTION="Kit Tampas Adesivas padrão Branco 13mm c/ 54un" OBSERVATIONS="" REFERENCE="A0000047-1048" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="100" HEIGHT="100" DEPTH="100" TEXTDIMENSION="100 x 100 x 100" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Tampas Adesivas" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\acessorios\auxiliares\tampas_adesivas\Tapa_Furo_13.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4814" UNIQUEPARENTID="-2" GUID="e644942f-0873-4b67-a4c5-12eeeeee220b" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="4.53" UNIT="4.53" TOTAL="4.53">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="4.21" TOTAL="4.21">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="4.53" INVALUE="4.53" OUTVALUE="5.15" MONETARYVALUE="0.62" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="5.15" INVALUE="5.15" OUTVALUE="4.22" MONETARYVALUE="-0.93" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="4.22" INVALUE="4.22" OUTVALUE="4.01" MONETARYVALUE="-0.21" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="4.01" INVALUE="4.01" OUTVALUE="4.01" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="4.01" INVALUE="4.01" OUTVALUE="4.01" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="4.01" INVALUE="4.01" OUTVALUE="4.01" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="4.01" INVALUE="4.01" OUTVALUE="4.01" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="4.01" INVALUE="4.01" OUTVALUE="4.21" MONETARYVALUE="0.2" />
+                  </ORDER>
+                  <BUDGET UNIT="7.41" TOTAL="7.41">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="4.21" INVALUE="4.21" OUTVALUE="7.41" MONETARYVALUE="3.2" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="7.41" INVALUE="7.41" OUTVALUE="7.41" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="7.41" INVALUE="7.41" OUTVALUE="7.41" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="A0000047-1048" />
+                <CODE REFERENCE="A0000047" />
+                <MODEL REFERENCE="1048" />
+                <PRICE REFERENCE="A0000047-1048" />
+                <CODE_TYPE REFERENCE="NOVO" />
+                <MODELNAME REFERENCE="Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_aux_kit_fly" DESCRIPTION="Kit Travessa Estrutural p/ Painel Fly" OBSERVATIONS="" REFERENCE="U100469" UNIT="un" REPETITION="1" QUANTITY="4" WIDTH="18" HEIGHT="680" DEPTH="18" TEXTDIMENSION="18 x 680 x 18" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Kits" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\acessorios\auxiliares\kits\8469_4.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4807" UNIQUEPARENTID="-2" GUID="2033ca35-51df-4869-b8ed-eb80e5a0a219" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="4807;4802;4803;4805" />
+              </METADATAS>
+              <PRICE TABLE="3.43" UNIT="13.72" TOTAL="13.72">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="12.75" TOTAL="12.75">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="13.72" INVALUE="13.72" OUTVALUE="15.59" MONETARYVALUE="1.87" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="15.59" INVALUE="15.59" OUTVALUE="12.78" MONETARYVALUE="-2.81" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="12.78" INVALUE="12.78" OUTVALUE="12.14" MONETARYVALUE="-0.64" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="12.14" INVALUE="12.14" OUTVALUE="12.14" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="12.14" INVALUE="12.14" OUTVALUE="12.14" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="12.14" INVALUE="12.14" OUTVALUE="12.14" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="12.14" INVALUE="12.14" OUTVALUE="12.14" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="12.14" INVALUE="12.14" OUTVALUE="12.75" MONETARYVALUE="0.61" />
+                  </ORDER>
+                  <BUDGET UNIT="22.44" TOTAL="22.44">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="12.75" INVALUE="12.75" OUTVALUE="22.44" MONETARYVALUE="9.69" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="22.44" INVALUE="22.44" OUTVALUE="22.44" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="22.44" INVALUE="22.44" OUTVALUE="22.44" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100469" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U100469" />
+                <PRICE REFERENCE="U100469" />
+                <VERDADEIRO_FALSO REFERENCE="ESCOLHA OPCAO" />
+                <PRATELEIRA_SIM_NAO REFERENCE="0" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_aux_kit_5794" DESCRIPTION="Pistão a gás 7210 mad carga 10Kg" OBSERVATIONS="" REFERENCE="5794" UNIT="un" REPETITION="1" QUANTITY="4" WIDTH="100" HEIGHT="100" DEPTH="100" TEXTDIMENSION="100 x 100 x 100" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Kits" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\acessorios\auxiliares\kits\7566_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4661" UNIQUEPARENTID="4660" GUID="2a19236a-e798-4988-b099-ac451f9f2421" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="4661;4588;4584;4665" />
+              </METADATAS>
+              <PRICE TABLE="10.78" UNIT="43.12" TOTAL="43.12">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="40.08" TOTAL="40.08">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="43.12" INVALUE="43.12" OUTVALUE="49" MONETARYVALUE="5.88" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="49" INVALUE="49" OUTVALUE="40.18" MONETARYVALUE="-8.82" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="40.18" INVALUE="40.18" OUTVALUE="38.17" MONETARYVALUE="-2.01" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="38.17" INVALUE="38.17" OUTVALUE="38.17" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="38.17" INVALUE="38.17" OUTVALUE="38.17" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="38.17" INVALUE="38.17" OUTVALUE="38.17" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="38.17" INVALUE="38.17" OUTVALUE="38.17" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="38.17" INVALUE="38.17" OUTVALUE="40.08" MONETARYVALUE="1.91" />
+                  </ORDER>
+                  <BUDGET UNIT="70.54" TOTAL="70.54">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="40.08" INVALUE="40.08" OUTVALUE="70.54" MONETARYVALUE="30.46" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="70.54" INVALUE="70.54" OUTVALUE="70.54" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="70.54" INVALUE="70.54" OUTVALUE="70.54" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="5794" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="5794" />
+                <FOCCO_CODE REFERENCE="5794" />
+                <PRICE REFERENCE="5794" />
+                <TIPO REFERENCE="NAO_TEM" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_ocu_div_NA3053" DESCRIPTION="Plaqueta Casa Brasileira Resinada Ref Brindec 09626" OBSERVATIONS="" REFERENCE="NA-3053-00" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="1" HEIGHT="1" DEPTH="1" TEXTDIMENSION="1 x 1  x 1" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Diversos" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\acessorios\Ocultos\diversos\NA3053.JPG" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4989" UNIQUEPARENTID="-2" GUID="620effb6-8b48-4050-ba24-ffadbe73750b" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="4989;5158;5156;5155;5154;5151;5066;5064;5062;5060;5058;5055;3746;3686;3684;3682;3680;3678;3650;4858;4856;3676;3674;3672;3670;3668;3666;3664;3662;3648;3588;4854;4852;3614;3612;3610;3608;3606;3604;3602;3600;3586;3745;3744;3743;3740;3738;3736;4866;4864;3735;3734;3733;3730;3729;3726;3725;3721;3719;3712;4862;4860;3711;3710;3709;3706;3705;3702;3701;3697;3695;3754;3748;3865;4358;4356;4354;4352;4350;4348;4346;4344;4342;4336;4334;4846;4844;4332;4298;4296;4294;4292;4290;4288;4286;4284;4282;4276;4274;4838;4836;4272;4188;4186;4184;4182;4072;4070;4068;4066;4064;4062;4060;4058;4056;4050;4048;4830;4828;4046;4024;4022;4020;4018;4016;4014;4012;4010;4008;4006;4004;4002;4000;4826;4824;3998;4536;4534;4532;4530;4516;4882;4880;4528;4526;4524;4522;4520;4518;4514;4482;4878;4876;4494;4492;4490;4488;4486;4484;4480;4460;4618;4617;4616;4613;4886;4884;4612;4611;4610;4609;4606;4605;4600;4593;4591;4590;4587;4586;4695;4694;4693;4690;4890;4888;4689;4688;4687;4686;4683;4682;4677;4670;4668;4667;4664;4663;4748;4746;4744;4730;4894;4892;4742;4740;4738;4736;4734;4732;4728;4708;4793;4797;4799;4801;4804;4806;4808;4809;4811;4813;4906;4914;4974;4972;4978;4983;5039;5037;5035;5033;5031;5029;5027;5025;5011;5023;5021;5019;5017;5015;5013;5009;5007;5005" />
+              </METADATAS>
+              <PRICE TABLE="0.78" UNIT="0.78" TOTAL="0.78">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="0.72" TOTAL="0.72">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="0.78" INVALUE="0.78" OUTVALUE="0.89" MONETARYVALUE="0.11" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="0.89" INVALUE="0.89" OUTVALUE="0.73" MONETARYVALUE="-0.16" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="0.73" INVALUE="0.73" OUTVALUE="0.69" MONETARYVALUE="-0.04" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.69" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.69" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.69" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.69" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="0.69" INVALUE="0.69" OUTVALUE="0.72" MONETARYVALUE="0.03" />
+                  </ORDER>
+                  <BUDGET UNIT="1.27" TOTAL="1.27">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="0.72" INVALUE="0.72" OUTVALUE="1.27" MONETARYVALUE="0.55" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="1.27" INVALUE="1.27" OUTVALUE="1.27" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="1.27" INVALUE="1.27" OUTVALUE="1.27" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="NA-3053-00" />
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="NA-3053" />
+                <MODEL REFERENCE="00" />
+                <PRICE REFERENCE="NA-3053-00" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="ace_pux_con_alu_oli_160" DESCRIPTION="Puxador Olimpo Aluminio Escovado F 160mm" OBSERVATIONS="" REFERENCE="A0000013" UNIT="un" REPETITION="1" QUANTITY="14" WIDTH="204" HEIGHT="9.5" DEPTH="27.6" TEXTDIMENSION="204 x 9,5 x 27,6" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Olimpo" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\acessorios\Puxadores_Novos\Convencionais\Aluminio\Olimpo\haste.JPG" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="5008" UNIQUEPARENTID="-2" GUID="68d1a9fb-e432-435e-9ccd-3d1210084809" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="5008;4859;4855;4867;4863;4847;4839;4831;4827;4883;4879;4887;4891;4895" />
+              </METADATAS>
+              <PRICE TABLE="13.84" UNIT="193.76" TOTAL="193.76">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="180.1" TOTAL="180.1">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="193.76" INVALUE="193.76" OUTVALUE="220.18" MONETARYVALUE="26.42" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="220.18" INVALUE="220.18" OUTVALUE="180.55" MONETARYVALUE="-39.63" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="180.55" INVALUE="180.55" OUTVALUE="171.52" MONETARYVALUE="-9.03" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="171.52" INVALUE="171.52" OUTVALUE="171.52" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="171.52" INVALUE="171.52" OUTVALUE="171.52" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="171.52" INVALUE="171.52" OUTVALUE="171.52" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo Financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="171.52" INVALUE="171.52" OUTVALUE="171.52" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="171.52" INVALUE="171.52" OUTVALUE="180.1" MONETARYVALUE="8.58" />
+                  </ORDER>
+                  <BUDGET UNIT="316.98" TOTAL="316.98">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Puxadores" OPERATOR="+" VALUE="76" CALCULUSVALUE="180.1" INVALUE="180.1" OUTVALUE="316.98" MONETARYVALUE="136.88" />
+                    <MARGIN ID="frete" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="316.98" INVALUE="316.98" OUTVALUE="316.98" MONETARYVALUE="0" />
+                    <MARGIN ID="montagem" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="316.98" INVALUE="316.98" OUTVALUE="316.98" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <MODELNAME REFERENCE="@*_*(NAME)@" />
+                <COMPLETE REFERENCE="A0000013" />
+                <CODE REFERENCE="A0000013" />
+                <FOCCO_CODE REFERENCE="A0000013" />
+                <PRICE REFERENCE="A0000013" />
+                <TIPO REFERENCE="NAO_TEM" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+              </REFERENCES>
+            </ITEM>
+          </ITEMS>
+        </CATEGORY>
+        <CATEGORY DESCRIPTION="Cozinhas">
+          <TOTALPRICES TABLE="2263.6">
+            <EXTRAINFORMATIONS>
+              <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0" TOTALVALUE="0" UNITVALUE="0" />
+              <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0" TOTALVALUE="0" UNITVALUE="0" />
+            </EXTRAINFORMATIONS>
+            <MARGINS>
+              <ORDER VALUE="2103.95">
+                <MARGIN ID="icms" DESCRIPTION="ICMS" VALUE="308.67" />
+                <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" VALUE="-463.02" />
+                <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" VALUE="-105.49" />
+                <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" VALUE="0" />
+                <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" VALUE="0" />
+                <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" VALUE="0" />
+                <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" VALUE="0" />
+                <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" VALUE="100.19" />
+              </ORDER>
+              <BUDGET VALUE="3702.94">
+                <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" VALUE="1598.99" />
+                <MARGIN ID="montagem" DESCRIPTION="Frete" VALUE="0" />
+                <MARGIN ID="frete" DESCRIPTION="Montagem" VALUE="0" />
+              </BUDGET>
+            </MARGINS>
+          </TOTALPRICES>
+          <ITEMS>
+            <ITEM ID="coz_inf_494_balcao_2P" DESCRIPTION="Balcão Duplo 600x670x494mm" OBSERVATIONS="" REFERENCE="N141007-05" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="600" HEIGHT="670" DEPTH="494" TEXTDIMENSION="600 x 670 x 494" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Balcões" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\Inferiores\prof_494\Balcoes\coz_pla_inf_balcoes_486_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4537" UNIQUEPARENTID="-2" GUID="31b34c6d-9f96-44fd-9e28-96cc49d3eeb4" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="160.19" UNIT="160.19" TOTAL="160.19">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="148.89" TOTAL="148.89">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="160.19" INVALUE="160.19" OUTVALUE="182.03" MONETARYVALUE="21.84" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="182.03" INVALUE="182.03" OUTVALUE="149.26" MONETARYVALUE="-32.77" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="149.26" INVALUE="149.26" OUTVALUE="141.8" MONETARYVALUE="-7.46" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="141.8" INVALUE="141.8" OUTVALUE="141.8" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="141.8" INVALUE="141.8" OUTVALUE="141.8" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="141.8" INVALUE="141.8" OUTVALUE="141.8" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="141.8" INVALUE="141.8" OUTVALUE="141.8" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="141.8" INVALUE="141.8" OUTVALUE="148.89" MONETARYVALUE="7.09" />
+                  </ORDER>
+                  <BUDGET UNIT="262.05" TOTAL="262.05">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="148.89" INVALUE="148.89" OUTVALUE="262.05" MONETARYVALUE="113.16" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="262.05" INVALUE="262.05" OUTVALUE="262.05" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="262.05" INVALUE="262.05" OUTVALUE="262.05" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="N141007-05" />
+                <MODELNAME REFERENCE="MDF 15mm\05 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="N141007" />
+                <MODEL REFERENCE="05" />
+                <FOCCO_CODE REFERENCE="N141007#05" />
+                <ESPESSURA REFERENCE="15" />
+                <ESPESSURA_FRENTE_FALSA REFERENCE="15" />
+                <PROFUNDIDADE REFERENCE="" />
+                <VALIDA_SUPORTE_FIX REFERENCE="NAO" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_pla_por_fre_gav_162_salum" DESCRIPTION="Frente de Gaveta - BP Alto Brilho Seda" OBSERVATIONS="" REFERENCE="2000072-1041" UNIT="un" REPETITION="1" QUANTITY="4" WIDTH="397" HEIGHT="162" DEPTH="18" TEXTDIMENSION="397 x 162 x 18" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gavetas" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\portas_frentes\Gavetas\Altura_162.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4001" UNIQUEPARENTID="4189" GUID="f8327118-7470-402b-9451-6ad9c209325a" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="4001;4335;4275;4049" />
+              </METADATAS>
+              <PRICE TABLE="38.35" UNIT="153.4" TOTAL="153.4">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="142.58" TOTAL="142.58">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="153.4" INVALUE="153.4" OUTVALUE="174.32" MONETARYVALUE="20.92" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="174.32" INVALUE="174.32" OUTVALUE="142.94" MONETARYVALUE="-31.38" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="142.94" INVALUE="142.94" OUTVALUE="135.79" MONETARYVALUE="-7.15" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="135.79" INVALUE="135.79" OUTVALUE="135.79" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="135.79" INVALUE="135.79" OUTVALUE="135.79" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="135.79" INVALUE="135.79" OUTVALUE="135.79" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="135.79" INVALUE="135.79" OUTVALUE="135.79" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="135.79" INVALUE="135.79" OUTVALUE="142.58" MONETARYVALUE="6.79" />
+                  </ORDER>
+                  <BUDGET UNIT="250.94" TOTAL="250.94">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="142.58" INVALUE="142.58" OUTVALUE="250.94" MONETARYVALUE="108.36" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="250.94" INVALUE="250.94" OUTVALUE="250.94" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="250.94" INVALUE="250.94" OUTVALUE="250.94" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="2000072-1041" />
+                <MODELNAME REFERENCE="18mm MDF BP Alto Brilho\1041 - Seda" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="2000072" />
+                <MODEL REFERENCE="1041" />
+                <MODEL_PRICE REFERENCE="1041" />
+                <FRENTEFORMA REFERENCE="normal" />
+                <VALIDA_DIMENSAO REFERENCE="162" />
+                <VALIDA_DIMENSAO_PAN REFERENCE="397" />
+                <FOCCO_CODE REFERENCE="2000072#1041" />
+                <VALIDA_VIDRO REFERENCE="" />
+                <DESC_DIR_ESQ REFERENCE="" />
+                <CODE_PDM REFERENCE="SIM" />
+                <CODE_01 REFERENCE="0072" />
+                <PRICE REFERENCE="2000072-1041" />
+                <ESPESSURA REFERENCE="18" />
+                <BORDA_PDM REFERENCE="200" />
+                <CODE_PDM_FORMATO REFERENCE="SIM" />
+                <ALTURA_PORTA REFERENCE="162" />
+                <LARGURA_PORTA REFERENCE="397" />
+                <MODELO_PORTA REFERENCE="QUATTUOR" />
+                <LARGURA_ORC_PORTA REFERENCE="NAO_APLICA" />
+                <ALTURA_ORC_PORTA REFERENCE="162" />
+                <CALCULAR_CUSTO REFERENCE="PADRAO" />
+                <CUSTO_FIXO_PERFIL REFERENCE="0" />
+                <CUSTO_FIXO_VIDRO REFERENCE="0" />
+                <CUSTO_FIXO_GERAL REFERENCE="" />
+                <CUSTO_MAXIMO REFERENCE="0" />
+                <CUSTO_PERFIL_MAXIMO REFERENCE="0" />
+                <CUSTO_VIDRO_MAXIMO REFERENCE="0" />
+                <ITEM_M2 REFERENCE="NAO" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_com_fre_fal_fog_fre_fal_inf" DESCRIPTION="Frente Falsa 18mm 670x500mm" OBSERVATIONS="" REFERENCE="U100498-1041" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="500" HEIGHT="670" DEPTH="18" TEXTDIMENSION="500 x 670 x 18" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Frente Falsa e de Fogão" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\Acabamentos\coz_portas_fre_falsa\972013.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="5038" UNIQUEPARENTID="5040" GUID="654ad794-0323-4e66-8b1b-b7f53f923913" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="99.81" UNIT="99.81" TOTAL="99.81">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="92.77" TOTAL="92.77">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="99.81" INVALUE="99.81" OUTVALUE="113.42" MONETARYVALUE="13.61" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="113.42" INVALUE="113.42" OUTVALUE="93" MONETARYVALUE="-20.42" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="93" INVALUE="93" OUTVALUE="88.35" MONETARYVALUE="-4.65" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="88.35" INVALUE="88.35" OUTVALUE="88.35" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="88.35" INVALUE="88.35" OUTVALUE="88.35" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="88.35" INVALUE="88.35" OUTVALUE="88.35" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="88.35" INVALUE="88.35" OUTVALUE="88.35" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="88.35" INVALUE="88.35" OUTVALUE="92.77" MONETARYVALUE="4.42" />
+                  </ORDER>
+                  <BUDGET UNIT="163.28" TOTAL="163.28">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="92.77" INVALUE="92.77" OUTVALUE="163.28" MONETARYVALUE="70.51" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="163.28" INVALUE="163.28" OUTVALUE="163.28" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="163.28" INVALUE="163.28" OUTVALUE="163.28" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100498-1041" />
+                <MODELNAME REFERENCE="18mm MDF BP Alto Brilho\1041 - Seda" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U100498" />
+                <MODEL REFERENCE="1041" />
+                <PRICE REFERENCE="U100498-1041" />
+                <ESPESSURA REFERENCE="18" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_com_cor_gav_tel_bai_440" DESCRIPTION="Gaveta Alt 85mm p/ Mod. 400 Cx 15mm" OBSERVATIONS="" REFERENCE="U100829-01-05" UNIT="un" REPETITION="1" QUANTITY="4" WIDTH="344" HEIGHT="85" DEPTH="440" TEXTDIMENSION="344 x 85 x 440" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Corpos de Gavetas" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\Acabamentos\Corpos_de_Gavetas\telescopica_baixa_440.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4021" UNIQUEPARENTID="4189" GUID="f5be4b61-c646-4b61-b5b3-4c543e1938bd" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="4021;4355;4295;4069" />
+              </METADATAS>
+              <PRICE TABLE="31.86" UNIT="127.44" TOTAL="127.44">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="118.45" TOTAL="118.45">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="127.44" INVALUE="127.44" OUTVALUE="144.82" MONETARYVALUE="17.38" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="144.82" INVALUE="144.82" OUTVALUE="118.75" MONETARYVALUE="-26.07" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="118.75" INVALUE="118.75" OUTVALUE="112.81" MONETARYVALUE="-5.94" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="112.81" INVALUE="112.81" OUTVALUE="112.81" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="112.81" INVALUE="112.81" OUTVALUE="112.81" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="112.81" INVALUE="112.81" OUTVALUE="112.81" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="112.81" INVALUE="112.81" OUTVALUE="112.81" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="112.81" INVALUE="112.81" OUTVALUE="118.45" MONETARYVALUE="5.64" />
+                  </ORDER>
+                  <BUDGET UNIT="208.47" TOTAL="208.47">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="118.45" INVALUE="118.45" OUTVALUE="208.47" MONETARYVALUE="90.02" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="208.47" INVALUE="208.47" OUTVALUE="208.47" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="208.47" INVALUE="208.47" OUTVALUE="208.47" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100829-01-05" />
+                <MODELNAME REFERENCE="MDF 15mm\05 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <MODEL REFERENCE="01-05" />
+                <ACAB REFERENCE="05" />
+                <CODE REFERENCE="U100829" />
+                <PRICE REFERENCE="U100829-01-05" />
+                <ABERTURA_CORREDICA REFERENCE="450" />
+                <CODE_CORREDICA REFERENCE="01" />
+                <VAL_PRIMEIRA_GAV REFERENCE="PRIMEIRA" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_inf_494_gav_e_art_inv_gav" DESCRIPTION="Módulo Gaveteiro" OBSERVATIONS="" REFERENCE="N101504-05" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="400" HEIGHT="670" DEPTH="494" TEXTDIMENSION="400 x 670 x 494" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveteiros/ Art. Inverso" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\Inferiores\prof_494\gaveteiros_art_inverso\coz_pla_inf_gav_491_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4189" UNIQUEPARENTID="-2" GUID="d0647f8f-174b-417c-a771-2304c10227cd" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="124" UNIT="124" TOTAL="124">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="115.26" TOTAL="115.26">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="124" INVALUE="124" OUTVALUE="140.91" MONETARYVALUE="16.91" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="140.91" INVALUE="140.91" OUTVALUE="115.55" MONETARYVALUE="-25.36" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="115.55" INVALUE="115.55" OUTVALUE="109.77" MONETARYVALUE="-5.78" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="109.77" INVALUE="109.77" OUTVALUE="109.77" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="109.77" INVALUE="109.77" OUTVALUE="109.77" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="109.77" INVALUE="109.77" OUTVALUE="109.77" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="109.77" INVALUE="109.77" OUTVALUE="109.77" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="109.77" INVALUE="109.77" OUTVALUE="115.26" MONETARYVALUE="5.49" />
+                  </ORDER>
+                  <BUDGET UNIT="202.86" TOTAL="202.86">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="115.26" INVALUE="115.26" OUTVALUE="202.86" MONETARYVALUE="87.6" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="202.86" INVALUE="202.86" OUTVALUE="202.86" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="202.86" INVALUE="202.86" OUTVALUE="202.86" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="N101504-05" />
+                <CODE REFERENCE="N101504" />
+                <MODEL REFERENCE="05" />
+                <FOCCO_CODE REFERENCE="N101504#05" />
+                <ESPESSURA REFERENCE="15" />
+                <ESPESSURA_FRENTE_FALSA REFERENCE="15" />
+                <PROFUNDIDADE REFERENCE="" />
+                <TESTE_PAI_AGREGADOS REFERENCE="ARAMADA" />
+                <TEST_1 REFERENCE="" />
+                <TEST_2 REFERENCE="" />
+                <VALIDA_SUPORTE_FIX REFERENCE="" />
+                <MODELNAME REFERENCE="MDF 15mm\05 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_inf_580_cto_ret_esq" DESCRIPTION="Modulo Inferior Canto Reto Esq 900x670x580mm" OBSERVATIONS="" REFERENCE="U100124-05" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="900" HEIGHT="670" DEPTH="580" TEXTDIMENSION="900 x 670 x 580" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Cantos" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\Inferiores\Prof_580\Cantos\coz_pla_inf_can_473_5.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="5040" UNIQUEPARENTID="-2" GUID="1a50a569-2591-4d39-8019-327a432beb20" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="173.38" UNIT="173.38" TOTAL="173.38">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="161.15" TOTAL="161.15">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="173.38" INVALUE="173.38" OUTVALUE="197.02" MONETARYVALUE="23.64" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="197.02" INVALUE="197.02" OUTVALUE="161.56" MONETARYVALUE="-35.46" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="161.56" INVALUE="161.56" OUTVALUE="153.48" MONETARYVALUE="-8.08" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="153.48" INVALUE="153.48" OUTVALUE="153.48" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="153.48" INVALUE="153.48" OUTVALUE="153.48" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="153.48" INVALUE="153.48" OUTVALUE="153.48" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="153.48" INVALUE="153.48" OUTVALUE="153.48" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="153.48" INVALUE="153.48" OUTVALUE="161.15" MONETARYVALUE="7.67" />
+                  </ORDER>
+                  <BUDGET UNIT="283.62" TOTAL="283.62">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="161.15" INVALUE="161.15" OUTVALUE="283.62" MONETARYVALUE="122.47" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="283.62" INVALUE="283.62" OUTVALUE="283.62" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="283.62" INVALUE="283.62" OUTVALUE="283.62" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100124-05" />
+                <MODELNAME REFERENCE="MDF 15mm\05 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U100124" />
+                <MODEL REFERENCE="05" />
+                <FOCCO_CODE REFERENCE="U100124#05" />
+                <ESPESSURA REFERENCE="15" />
+                <ESPESSURA_FRENTE_FALSA REFERENCE="15" />
+                <PROFUNDIDADE REFERENCE="" />
+                <VALIDA_SUPORTE_FIX REFERENCE="" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="cozinhas_pla_sup_med_660_arm_alt_660_300_500" DESCRIPTION="Modulo Superior c/ Prateleira" OBSERVATIONS="" REFERENCE="U100050-05" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="300" HEIGHT="660" DEPTH="328" TEXTDIMENSION="300 x 660 x 328" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Armários" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\coz_pla_412\armarios_alt_660\Armarios\coz_pla_sup_660_arm_539_1.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4749" UNIQUEPARENTID="-2" GUID="fdb889a0-6558-4112-9e90-c8a181fc9abe" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="68.6" UNIT="68.6" TOTAL="68.6">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="63.76" TOTAL="63.76">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="68.6" INVALUE="68.6" OUTVALUE="77.95" MONETARYVALUE="9.35" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="77.95" INVALUE="77.95" OUTVALUE="63.92" MONETARYVALUE="-14.03" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="63.92" INVALUE="63.92" OUTVALUE="60.72" MONETARYVALUE="-3.2" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="60.72" INVALUE="60.72" OUTVALUE="60.72" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="60.72" INVALUE="60.72" OUTVALUE="60.72" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="60.72" INVALUE="60.72" OUTVALUE="60.72" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="60.72" INVALUE="60.72" OUTVALUE="60.72" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="60.72" INVALUE="60.72" OUTVALUE="63.76" MONETARYVALUE="3.04" />
+                  </ORDER>
+                  <BUDGET UNIT="112.22" TOTAL="112.22">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="63.76" INVALUE="63.76" OUTVALUE="112.22" MONETARYVALUE="48.46" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="112.22" INVALUE="112.22" OUTVALUE="112.22" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="112.22" INVALUE="112.22" OUTVALUE="112.22" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100050-05" />
+                <MODELNAME REFERENCE="MDF 15mm\05 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U100050" />
+                <MODEL REFERENCE="05" />
+                <FOCCO_CODE REFERENCE="U100050#05" />
+                <ESPESSURA REFERENCE="15" />
+                <ESPESSURA_FRENTE_FALSA REFERENCE="15" />
+                <PROFUNDIDADE REFERENCE="" />
+                <VALIDA_SUPORTE_FIX REFERENCE="" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="cozinhas_pla_sup_med_495_arm_art_art" DESCRIPTION="Modulo Superior c/ Prateleira" OBSERVATIONS="" REFERENCE="U100022-05" UNIT="un" REPETITION="1" QUANTITY="2" WIDTH="600" HEIGHT="495" DEPTH="328" TEXTDIMENSION="600 x 495 x 328" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Armários/ Articuladores" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\coz_pla_412\armario_alt_495\armarios_art\coz_pla_sup_450_art_569_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4660" UNIQUEPARENTID="-2" GUID="8a3d4e62-87a7-4d04-94e0-c51c10280e5d" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="4660;4583" />
+              </METADATAS>
+              <PRICE TABLE="121.01" UNIT="242.02" TOTAL="242.02">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="224.95" TOTAL="224.95">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="242.02" INVALUE="242.02" OUTVALUE="275.02" MONETARYVALUE="33" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="275.02" INVALUE="275.02" OUTVALUE="225.52" MONETARYVALUE="-49.5" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="225.52" INVALUE="225.52" OUTVALUE="214.24" MONETARYVALUE="-11.28" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="214.24" INVALUE="214.24" OUTVALUE="214.24" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="214.24" INVALUE="214.24" OUTVALUE="214.24" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="214.24" INVALUE="214.24" OUTVALUE="214.24" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="214.24" INVALUE="214.24" OUTVALUE="214.24" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="214.24" INVALUE="214.24" OUTVALUE="224.95" MONETARYVALUE="10.71" />
+                  </ORDER>
+                  <BUDGET UNIT="395.91" TOTAL="395.91">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="224.95" INVALUE="224.95" OUTVALUE="395.91" MONETARYVALUE="170.96" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="395.91" INVALUE="395.91" OUTVALUE="395.91" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="395.91" INVALUE="395.91" OUTVALUE="395.91" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100022-05" />
+                <MODELNAME REFERENCE="MDF 15mm\05 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U100022" />
+                <MODEL REFERENCE="05" />
+                <FOCCO_CODE REFERENCE="U100022#05" />
+                <ESPESSURA REFERENCE="15" />
+                <ESPESSURA_FRENTE_FALSA REFERENCE="15" />
+                <PROFUNDIDADE REFERENCE="" />
+                <VALIDA_SUPORTE_FIX REFERENCE="" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="cozinhas_pla_sup_alt_990_arm_600_1000" DESCRIPTION="Modulo Superior c/ Prateleira" OBSERVATIONS="" REFERENCE="U100111-05" UNIT="un" REPETITION="1" QUANTITY="2" WIDTH="700" HEIGHT="990" DEPTH="328" TEXTDIMENSION="700 x 990 x 328" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Armários" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\coz_pla_412\sup_990\sup_990\coz_pla_sup_900_arm_605_4.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="3688" UNIQUEPARENTID="-2" GUID="ae0edfba-7b1f-474c-973e-f5053ecf1f0b" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="3688;3687" />
+              </METADATAS>
+              <PRICE TABLE="135.98" UNIT="271.96" TOTAL="271.96">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="252.79" TOTAL="252.79">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="271.96" INVALUE="271.96" OUTVALUE="309.05" MONETARYVALUE="37.09" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="309.05" INVALUE="309.05" OUTVALUE="253.42" MONETARYVALUE="-55.63" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="253.42" INVALUE="253.42" OUTVALUE="240.75" MONETARYVALUE="-12.67" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="240.75" INVALUE="240.75" OUTVALUE="240.75" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="240.75" INVALUE="240.75" OUTVALUE="240.75" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="240.75" INVALUE="240.75" OUTVALUE="240.75" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="240.75" INVALUE="240.75" OUTVALUE="240.75" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="240.75" INVALUE="240.75" OUTVALUE="252.79" MONETARYVALUE="12.04" />
+                  </ORDER>
+                  <BUDGET UNIT="444.91" TOTAL="444.91">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="252.79" INVALUE="252.79" OUTVALUE="444.91" MONETARYVALUE="192.12" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="444.91" INVALUE="444.91" OUTVALUE="444.91" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="444.91" INVALUE="444.91" OUTVALUE="444.91" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100111-05" />
+                <MODELNAME REFERENCE="MDF 15mm\05 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U100111" />
+                <MODEL REFERENCE="05" />
+                <FOCCO_CODE REFERENCE="U100111#05" />
+                <ESPESSURA REFERENCE="15" />
+                <ESPESSURA_FRENTE_FALSA REFERENCE="15" />
+                <PROFUNDIDADE REFERENCE="" />
+                <VALIDA_SUPORTE_FIX REFERENCE="" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="cozinhas_pla_sup_med_660_arm_alt_660_300_500" DESCRIPTION="Modulo Superior c/ Prateleira" OBSERVATIONS="" REFERENCE="U100049-05" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="250" HEIGHT="660" DEPTH="328" TEXTDIMENSION="250 x 660 x 328" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Armários" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\coz_pla_412\armarios_alt_660\Armarios\coz_pla_sup_660_arm_539_1.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="5149" UNIQUEPARENTID="-2" GUID="14276086-3404-4d5b-aac2-c8ef74cae71a" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="94.15" UNIT="94.15" TOTAL="94.15">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="87.51" TOTAL="87.51">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="94.15" INVALUE="94.15" OUTVALUE="106.99" MONETARYVALUE="12.84" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="106.99" INVALUE="106.99" OUTVALUE="87.73" MONETARYVALUE="-19.26" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="87.73" INVALUE="87.73" OUTVALUE="83.34" MONETARYVALUE="-4.39" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="83.34" INVALUE="83.34" OUTVALUE="83.34" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="83.34" INVALUE="83.34" OUTVALUE="83.34" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="83.34" INVALUE="83.34" OUTVALUE="83.34" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="83.34" INVALUE="83.34" OUTVALUE="83.34" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="83.34" INVALUE="83.34" OUTVALUE="87.51" MONETARYVALUE="4.17" />
+                  </ORDER>
+                  <BUDGET UNIT="154.02" TOTAL="154.02">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="87.51" INVALUE="87.51" OUTVALUE="154.02" MONETARYVALUE="66.51" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="154.02" INVALUE="154.02" OUTVALUE="154.02" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="154.02" INVALUE="154.02" OUTVALUE="154.02" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100049-05" />
+                <MODELNAME REFERENCE="MDF 15mm\05 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U100049" />
+                <MODEL REFERENCE="05" />
+                <FOCCO_CODE REFERENCE="U100049#05" />
+                <ESPESSURA REFERENCE="15" />
+                <ESPESSURA_FRENTE_FALSA REFERENCE="15" />
+                <PROFUNDIDADE REFERENCE="" />
+                <VALIDA_SUPORTE_FIX REFERENCE="" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_pla_por_inf_469_EXPLODE_dob" DESCRIPTION="Porta - BP Alto Brilho Seda" OBSERVATIONS="" REFERENCE="2000016-1041" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="397" HEIGHT="656" DEPTH="18" TEXTDIMENSION="397 x 656 x 18" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Inferiores" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\portas_frentes\Inferiores\coz_pla_por_inf_469.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="5012" UNIQUEPARENTID="5040" GUID="f50f3f11-6e28-40e7-b623-05962e739b2b" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="62.85" UNIT="62.85" TOTAL="62.85">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="58.41" TOTAL="58.41">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="62.85" INVALUE="62.85" OUTVALUE="71.42" MONETARYVALUE="8.57" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="71.42" INVALUE="71.42" OUTVALUE="58.56" MONETARYVALUE="-12.86" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="58.56" INVALUE="58.56" OUTVALUE="55.63" MONETARYVALUE="-2.93" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="55.63" INVALUE="55.63" OUTVALUE="55.63" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="55.63" INVALUE="55.63" OUTVALUE="55.63" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="55.63" INVALUE="55.63" OUTVALUE="55.63" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="55.63" INVALUE="55.63" OUTVALUE="55.63" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="55.63" INVALUE="55.63" OUTVALUE="58.41" MONETARYVALUE="2.78" />
+                  </ORDER>
+                  <BUDGET UNIT="102.8" TOTAL="102.8">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="58.41" INVALUE="58.41" OUTVALUE="102.8" MONETARYVALUE="44.39" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="102.8" INVALUE="102.8" OUTVALUE="102.8" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="102.8" INVALUE="102.8" OUTVALUE="102.8" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="2000016-1041" />
+                <MODELNAME REFERENCE="18mm MDF BP Alto Brilho\1041 - Seda" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="2000016" />
+                <CODE_01 REFERENCE="0016" />
+                <MODEL_PRICE REFERENCE="1041" />
+                <MODEL REFERENCE="1041" />
+                <FRENTEFORMA REFERENCE="normal" />
+                <VALIDA_DIMENSAO REFERENCE="656" />
+                <VALIDA_DIMENSAO_PAN REFERENCE="397" />
+                <FOCCO_CODE REFERENCE="2000016#1041" />
+                <VALIDA_VIDRO REFERENCE="" />
+                <DESC_DIR_ESQ REFERENCE="" />
+                <CODE_PDM REFERENCE="0016" />
+                <PRICE REFERENCE="2000016-1041" />
+                <ESPESSURA REFERENCE="18" />
+                <VALIDA_DIMENSAO_LARG REFERENCE="397" />
+                <BORDA_PDM REFERENCE="200" />
+                <CODE_PDM_FORMATO REFERENCE="SIM" />
+                <ALTURA_PORTA REFERENCE="656" />
+                <LARGURA_PORTA REFERENCE="397" />
+                <MODELO_PORTA REFERENCE="QUATTUOR" />
+                <CALCULAR_CUSTO REFERENCE="PADRAO" />
+                <CUSTO_FIXO_PERFIL REFERENCE="0" />
+                <CUSTO_FIXO_VIDRO REFERENCE="0" />
+                <CUSTO_FIXO_GERAL REFERENCE="" />
+                <CUSTO_MAXIMO REFERENCE="0" />
+                <CUSTO_PERFIL_MAXIMO REFERENCE="0" />
+                <CUSTO_VIDRO_MAXIMO REFERENCE="0" />
+                <LARGURA_ORC_PORTA REFERENCE="NAO_APLICA" />
+                <ALTURA_ORC_PORTA REFERENCE="656" />
+                <ITEM_M2 REFERENCE="" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_pla_por_990_nor_EXPLODE_dob" DESCRIPTION="Porta - BP Alto Brilho Seda" OBSERVATIONS="" REFERENCE="2000029-1041" UNIT="un" REPETITION="1" QUANTITY="4" WIDTH="347" HEIGHT="986" DEPTH="18" TEXTDIMENSION="347 x 986 x 18" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Superiores" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\portas_frentes\sup_330\coz_pla_por_inf_469.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="3689" UNIQUEPARENTID="3688" GUID="7ea1a2d5-dd47-4d7f-8350-f42048331e78" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="3689;3651;3589;3713" />
+              </METADATAS>
+              <PRICE TABLE="85.82" UNIT="343.28" TOTAL="343.28">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="319.07" TOTAL="319.07">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="343.28" INVALUE="343.28" OUTVALUE="390.09" MONETARYVALUE="46.81" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="390.09" INVALUE="390.09" OUTVALUE="319.87" MONETARYVALUE="-70.22" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="319.87" INVALUE="319.87" OUTVALUE="303.88" MONETARYVALUE="-15.99" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="303.88" INVALUE="303.88" OUTVALUE="303.88" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="303.88" INVALUE="303.88" OUTVALUE="303.88" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="303.88" INVALUE="303.88" OUTVALUE="303.88" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="303.88" INVALUE="303.88" OUTVALUE="303.88" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="303.88" INVALUE="303.88" OUTVALUE="319.07" MONETARYVALUE="15.19" />
+                  </ORDER>
+                  <BUDGET UNIT="561.56" TOTAL="561.56">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="319.07" INVALUE="319.07" OUTVALUE="561.56" MONETARYVALUE="242.49" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="561.56" INVALUE="561.56" OUTVALUE="561.56" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="561.56" INVALUE="561.56" OUTVALUE="561.56" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="2000029-1041" />
+                <MODELNAME REFERENCE="18mm MDF BP Alto Brilho\1041 - Seda" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="2000029" />
+                <MODEL REFERENCE="1041" />
+                <MODEL_PRICE REFERENCE="1041" />
+                <FRENTEFORMA REFERENCE="normal" />
+                <VALIDA_DIMENSAO REFERENCE="986" />
+                <VALIDA_DIMENSAO_PAN REFERENCE="347" />
+                <FOCCO_CODE REFERENCE="2000029#1041" />
+                <VALIDA_VIDRO REFERENCE="" />
+                <CODE_PDM REFERENCE="SIM" />
+                <PRICE REFERENCE="2000029-1041" />
+                <CODE_01 REFERENCE="0029" />
+                <ESPESSURA REFERENCE="18" />
+                <BORDA_PDM REFERENCE="200" />
+                <CODE_PDM_FORMATO REFERENCE="SIM" />
+                <ALTURA_PORTA REFERENCE="986" />
+                <LARGURA_PORTA REFERENCE="347" />
+                <MODELO_PORTA REFERENCE="QUATTUOR" />
+                <LARGURA_ORC_PORTA REFERENCE="NAO_APLICA" />
+                <CALCULAR_CUSTO REFERENCE="PADRAO" />
+                <CUSTO_FIXO_PERFIL REFERENCE="0" />
+                <CUSTO_FIXO_VIDRO REFERENCE="0" />
+                <CUSTO_FIXO_GERAL REFERENCE="" />
+                <CUSTO_MAXIMO REFERENCE="0" />
+                <CUSTO_PERFIL_MAXIMO REFERENCE="0" />
+                <CUSTO_VIDRO_MAXIMO REFERENCE="0" />
+                <ALTURA_ORC_PORTA REFERENCE="986" />
+                <ITEM_M2 REFERENCE="" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_pla_por_sup_660_689_EXPLODE_dob" DESCRIPTION="Porta - BP Alto Brilho Seda " OBSERVATIONS="" REFERENCE="2000014-1041" UNIT="un" REPETITION="1" QUANTITY="3" WIDTH="297" HEIGHT="656" DEPTH="18" TEXTDIMENSION="297 x 656 x 18" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Superiores" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\portas_frentes\sup_330\coz_pla_por_inf_469.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4731" UNIQUEPARENTID="-2" GUID="a3010262-d250-4867-9cd6-ab1c6aea0092" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="4731;4517;4483" />
+              </METADATAS>
+              <PRICE TABLE="53.49" UNIT="160.47" TOTAL="160.47">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="149.15" TOTAL="149.15">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="160.47" INVALUE="160.47" OUTVALUE="182.35" MONETARYVALUE="21.88" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="182.35" INVALUE="182.35" OUTVALUE="149.53" MONETARYVALUE="-32.82" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="149.53" INVALUE="149.53" OUTVALUE="142.05" MONETARYVALUE="-7.48" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="142.05" INVALUE="142.05" OUTVALUE="142.05" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="142.05" INVALUE="142.05" OUTVALUE="142.05" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="142.05" INVALUE="142.05" OUTVALUE="142.05" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="142.05" INVALUE="142.05" OUTVALUE="142.05" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="142.05" INVALUE="142.05" OUTVALUE="149.15" MONETARYVALUE="7.1" />
+                  </ORDER>
+                  <BUDGET UNIT="262.5" TOTAL="262.5">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="149.15" INVALUE="149.15" OUTVALUE="262.5" MONETARYVALUE="113.35" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="262.5" INVALUE="262.5" OUTVALUE="262.5" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="262.5" INVALUE="262.5" OUTVALUE="262.5" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="2000014-1041" />
+                <MODELNAME REFERENCE="18mm MDF BP Alto Brilho\1041 - Seda" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="2000014" />
+                <MODEL REFERENCE="1041" />
+                <MODEL_PRICE REFERENCE="1041" />
+                <FRENTEFORMA REFERENCE="normal" />
+                <VALIDA_DIMENSAO REFERENCE="656" />
+                <VALIDA_DIMENSAO_PAN REFERENCE="297" />
+                <FOCCO_CODE REFERENCE="2000014#1041" />
+                <VALIDA_VIDRO REFERENCE="" />
+                <CODE_PDM REFERENCE="SIM" />
+                <PRICE REFERENCE="2000014-1041" />
+                <CODE_01 REFERENCE="0014" />
+                <ESPESSURA REFERENCE="18" />
+                <BORDA_PDM REFERENCE="200" />
+                <CODE_PDM_FORMATO REFERENCE="SIM" />
+                <ALTURA_PORTA REFERENCE="656" />
+                <LARGURA_PORTA REFERENCE="297" />
+                <MODELO_PORTA REFERENCE="QUATTUOR" />
+                <LARGURA_ORC_PORTA REFERENCE="NAO_APLICA" />
+                <CALCULAR_CUSTO REFERENCE="PADRAO" />
+                <CUSTO_FIXO_PERFIL REFERENCE="0" />
+                <CUSTO_FIXO_VIDRO REFERENCE="0" />
+                <CUSTO_FIXO_GERAL REFERENCE="" />
+                <CUSTO_MAXIMO REFERENCE="0" />
+                <CUSTO_PERFIL_MAXIMO REFERENCE="0" />
+                <CUSTO_VIDRO_MAXIMO REFERENCE="0" />
+                <ALTURA_ORC_PORTA REFERENCE="656" />
+                <ITEM_M2 REFERENCE="" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_pla_por_pis_alt_491" DESCRIPTION="Porta Pistão - BP Alto Brilho Seda" OBSERVATIONS="" REFERENCE="2000055-1041" UNIT="un" REPETITION="1" QUANTITY="2" WIDTH="597" HEIGHT="491" DEPTH="18" TEXTDIMENSION="597 x 491 x 18" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Articulador" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\portas_frentes\coz_pla_por_pistao\coz_pla_por_sup_450_627.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4671" UNIQUEPARENTID="4660" GUID="acf1d07b-3ca0-43cf-99bb-49ad9aa695a5" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="4671;4594" />
+              </METADATAS>
+              <PRICE TABLE="63.6" UNIT="127.2" TOTAL="127.2">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="118.23" TOTAL="118.23">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="127.2" INVALUE="127.2" OUTVALUE="144.55" MONETARYVALUE="17.35" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="144.55" INVALUE="144.55" OUTVALUE="118.53" MONETARYVALUE="-26.02" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="118.53" INVALUE="118.53" OUTVALUE="112.6" MONETARYVALUE="-5.93" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="112.6" INVALUE="112.6" OUTVALUE="112.6" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="112.6" INVALUE="112.6" OUTVALUE="112.6" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="112.6" INVALUE="112.6" OUTVALUE="112.6" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="112.6" INVALUE="112.6" OUTVALUE="112.6" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="112.6" INVALUE="112.6" OUTVALUE="118.23" MONETARYVALUE="5.63" />
+                  </ORDER>
+                  <BUDGET UNIT="208.08" TOTAL="208.08">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="118.23" INVALUE="118.23" OUTVALUE="208.08" MONETARYVALUE="89.85" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="208.08" INVALUE="208.08" OUTVALUE="208.08" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="208.08" INVALUE="208.08" OUTVALUE="208.08" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="2000055-1041" />
+                <MODELNAME REFERENCE="18mm MDF BP Alto Brilho\1041 - Seda" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="2000055" />
+                <MODEL REFERENCE="1041" />
+                <MODEL_PRICE REFERENCE="1041" />
+                <FRENTEFORMA REFERENCE="normal" />
+                <VALIDA_DIMENSAO REFERENCE="491" />
+                <VALIDA_DIMENSAO_PAN REFERENCE="597" />
+                <FOCCO_CODE REFERENCE="2000055#1041" />
+                <VALIDA_VIDRO REFERENCE="" />
+                <CODE_PDM REFERENCE="SIM" />
+                <PRICE REFERENCE="2000055-1041" />
+                <CODE_01 REFERENCE="0055" />
+                <ESPESSURA REFERENCE="18" />
+                <BORDA_PDM REFERENCE="200" />
+                <CODE_PDM_FORMATO REFERENCE="SIM" />
+                <ALTURA_PORTA REFERENCE="491" />
+                <LARGURA_PORTA REFERENCE="597" />
+                <MODELO_PORTA REFERENCE="QUATTUOR" />
+                <LARGURA_ORC_PORTA REFERENCE="NAO_APLICA" />
+                <CALCULAR_CUSTO REFERENCE="PADRAO" />
+                <CUSTO_FIXO_PERFIL REFERENCE="0" />
+                <CUSTO_FIXO_VIDRO REFERENCE="0" />
+                <CUSTO_FIXO_GERAL REFERENCE="" />
+                <CUSTO_MAXIMO REFERENCE="0" />
+                <CUSTO_PERFIL_MAXIMO REFERENCE="0" />
+                <CUSTO_VIDRO_MAXIMO REFERENCE="0" />
+                <ALTURA_ORC_PORTA REFERENCE="491" />
+                <ITEM_M2 REFERENCE="NAO" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_pla_com_prat_U100291" DESCRIPTION="Prateleira P/ Balcão Canto Reto 869x505x15" OBSERVATIONS="" REFERENCE="U100292-05" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="869" HEIGHT="15" DEPTH="505" TEXTDIMENSION="869 x 15 x 505" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Prateleiras Internas" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\Acabamentos\prat_internas\coz_pla_ocu_prat_532_1.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="5026" UNIQUEPARENTID="5040" GUID="78d607c9-4ebb-4f3e-b153-e64140b208df" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="32.58" UNIT="32.58" TOTAL="32.58">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="30.28" TOTAL="30.28">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="32.58" INVALUE="32.58" OUTVALUE="37.02" MONETARYVALUE="4.44" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="37.02" INVALUE="37.02" OUTVALUE="30.36" MONETARYVALUE="-6.66" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="30.36" INVALUE="30.36" OUTVALUE="28.84" MONETARYVALUE="-1.52" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="28.84" INVALUE="28.84" OUTVALUE="28.84" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="28.84" INVALUE="28.84" OUTVALUE="28.84" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="28.84" INVALUE="28.84" OUTVALUE="28.84" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="28.84" INVALUE="28.84" OUTVALUE="28.84" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="28.84" INVALUE="28.84" OUTVALUE="30.28" MONETARYVALUE="1.44" />
+                  </ORDER>
+                  <BUDGET UNIT="53.29" TOTAL="53.29">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="30.28" INVALUE="30.28" OUTVALUE="53.29" MONETARYVALUE="23.01" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="53.29" INVALUE="53.29" OUTVALUE="53.29" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="53.29" INVALUE="53.29" OUTVALUE="53.29" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100292-05" />
+                <MODELNAME REFERENCE="MDF 15mm\05 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U100292" />
+                <MODEL REFERENCE="05" />
+                <INSERIR_FRENTE REFERENCE="True" />
+                <FOCCO_CODE REFERENCE="U100292#05" />
+                <DESC_GAV REFERENCE="MDF Branco" />
+                <DIM_GAV REFERENCE="925" />
+                <ABERTURA_CORREDICA REFERENCE="" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_com_pra_int_tra_cto_inf" DESCRIPTION="Travessa 49x18x670mm" OBSERVATIONS="" REFERENCE="U100294-1041" UNIT="un" REPETITION="1" QUANTITY="1" WIDTH="49" HEIGHT="670" DEPTH="18" TEXTDIMENSION="49 x 670 x 18" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Prateleiras Internas" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\cozinhas_planejadas\Acabamentos\prat_internas\N502085_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="5034" UNIQUEPARENTID="5040" GUID="5c7132f7-e7e3-45fb-89d8-fc33c1eb664e" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="22.27" UNIT="22.27" TOTAL="22.27">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="20.7" TOTAL="20.7">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="22.27" INVALUE="22.27" OUTVALUE="25.31" MONETARYVALUE="3.04" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="25.31" INVALUE="25.31" OUTVALUE="20.75" MONETARYVALUE="-4.56" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="20.75" INVALUE="20.75" OUTVALUE="19.71" MONETARYVALUE="-1.04" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="19.71" INVALUE="19.71" OUTVALUE="19.71" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="19.71" INVALUE="19.71" OUTVALUE="19.71" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="19.71" INVALUE="19.71" OUTVALUE="19.71" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="19.71" INVALUE="19.71" OUTVALUE="19.71" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="19.71" INVALUE="19.71" OUTVALUE="20.7" MONETARYVALUE="0.99" />
+                  </ORDER>
+                  <BUDGET UNIT="36.43" TOTAL="36.43">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo - Geral" OPERATOR="+" VALUE="76" CALCULUSVALUE="20.7" INVALUE="20.7" OUTVALUE="36.43" MONETARYVALUE="15.73" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="36.43" INVALUE="36.43" OUTVALUE="36.43" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="36.43" INVALUE="36.43" OUTVALUE="36.43" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100294-1041" />
+                <MODELNAME REFERENCE="18mm MDF BP Alto Brilho\1041 - Seda" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U100294" />
+                <MODEL REFERENCE="1041" />
+                <PRICE REFERENCE="U100294-1041" />
+                <ESPESSURA REFERENCE="18" />
+              </REFERENCES>
+            </ITEM>
+          </ITEMS>
+        </CATEGORY>
+        <CATEGORY DESCRIPTION="Prateleiras">
+          <TOTALPRICES TABLE="478.12">
+            <EXTRAINFORMATIONS>
+              <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0" TOTALVALUE="0" UNITVALUE="0" />
+              <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0" TOTALVALUE="0" UNITVALUE="0" />
+            </EXTRAINFORMATIONS>
+            <MARGINS>
+              <ORDER VALUE="444.4">
+                <MARGIN ID="icms" DESCRIPTION="ICMS" VALUE="65.2" />
+                <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" VALUE="-97.81" />
+                <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" VALUE="-22.27" />
+                <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" VALUE="0" />
+                <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" VALUE="0" />
+                <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" VALUE="0" />
+                <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" VALUE="0" />
+                <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" VALUE="21.16" />
+              </ORDER>
+              <BUDGET VALUE="782.15">
+                <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" VALUE="337.75" />
+                <MARGIN ID="montagem" DESCRIPTION="Frete" VALUE="0" />
+                <MARGIN ID="frete" DESCRIPTION="Montagem" VALUE="0" />
+              </BUDGET>
+            </MARGINS>
+          </TOTALPRICES>
+          <ITEMS>
+            <ITEM ID="tel_prat_aca_mol_lin_18" DESCRIPTION="Moldura de Acabamento Linear 64x18-Borda 4L - MDF BP Alto Brilho Seda" OBSERVATIONS="" REFERENCE="U100322-990-1041" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="990" HEIGHT="18" DEPTH="64" TEXTDIMENSION="990 x 18  x 64" COMPONENT="N" STRUCTURE="N" FAMILY="Prateleiras" GROUP="Molduras Lineares" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Prateleiras\tel_prat_reguas\molduras_lineares\REGUA_5.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="3755" UNIQUEPARENTID="3749" GUID="3230bc15-4b84-4857-b8fa-acbfe5e2a657" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="53.23" UNIT="52.7" TOTAL="52.7">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="48.98" TOTAL="48.98">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="52.7" INVALUE="52.7" OUTVALUE="59.89" MONETARYVALUE="7.19" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="59.89" INVALUE="59.89" OUTVALUE="49.11" MONETARYVALUE="-10.78" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="49.11" INVALUE="49.11" OUTVALUE="46.65" MONETARYVALUE="-2.46" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="46.65" INVALUE="46.65" OUTVALUE="46.65" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="46.65" INVALUE="46.65" OUTVALUE="46.65" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="46.65" INVALUE="46.65" OUTVALUE="46.65" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="46.65" INVALUE="46.65" OUTVALUE="46.65" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="46.65" INVALUE="46.65" OUTVALUE="48.98" MONETARYVALUE="2.33" />
+                  </ORDER>
+                  <BUDGET UNIT="86.2" TOTAL="86.2">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" OPERATOR="+" VALUE="76" CALCULUSVALUE="48.98" INVALUE="48.98" OUTVALUE="86.2" MONETARYVALUE="37.22" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="86.2" INVALUE="86.2" OUTVALUE="86.2" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="86.2" INVALUE="86.2" OUTVALUE="86.2" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100322-990-1041" />
+                <MODELNAME REFERENCE="MDF BP Alto Brilho" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U100322" />
+                <MODEL_PRICE REFERENCE="1041" />
+                <PRICE REFERENCE="U100322-1041" />
+                <MODEL REFERENCE="990-1041" />
+                <MOD_DESC REFERENCE="MDF BP Alto Brilho Seda" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="tel_prat_aca_mol_lin_18" DESCRIPTION="Moldura de Acabamento Linear 64x18-Borda 4L - MDP Branco" OBSERVATIONS="" REFERENCE="U100322-1470-1048" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="1470" HEIGHT="18" DEPTH="64" TEXTDIMENSION="1470 x 18  x 64" COMPONENT="N" STRUCTURE="N" FAMILY="Prateleiras" GROUP="Molduras Lineares" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Prateleiras\tel_prat_reguas\molduras_lineares\REGUA_5.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="3747" UNIQUEPARENTID="3688" GUID="fefa69ab-237b-46a5-bae7-80223adfb902" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="31.69" UNIT="46.58" TOTAL="46.58">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="43.29" TOTAL="43.29">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="46.58" INVALUE="46.58" OUTVALUE="52.93" MONETARYVALUE="6.35" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="52.93" INVALUE="52.93" OUTVALUE="43.4" MONETARYVALUE="-9.53" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="43.4" INVALUE="43.4" OUTVALUE="41.23" MONETARYVALUE="-2.17" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="41.23" INVALUE="41.23" OUTVALUE="41.23" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="41.23" INVALUE="41.23" OUTVALUE="41.23" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="41.23" INVALUE="41.23" OUTVALUE="41.23" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="41.23" INVALUE="41.23" OUTVALUE="41.23" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="41.23" INVALUE="41.23" OUTVALUE="43.29" MONETARYVALUE="2.06" />
+                  </ORDER>
+                  <BUDGET UNIT="76.19" TOTAL="76.19">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" OPERATOR="+" VALUE="76" CALCULUSVALUE="43.29" INVALUE="43.29" OUTVALUE="76.19" MONETARYVALUE="32.9" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="76.19" INVALUE="76.19" OUTVALUE="76.19" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="76.19" INVALUE="76.19" OUTVALUE="76.19" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100322-1470-1048" />
+                <MODELNAME REFERENCE="MDP\1046 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U100322" />
+                <MODEL_PRICE REFERENCE="1048" />
+                <PRICE REFERENCE="U100322-1048" />
+                <MODEL REFERENCE="1470-1048" />
+                <MOD_DESC REFERENCE="MDP Branco" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="tel_prat_aca_mol_lin_18" DESCRIPTION="Moldura de Acabamento Linear 64x18-Borda 4L - MDP Branco" OBSERVATIONS="" REFERENCE="U100322-1770-1048" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="1770" HEIGHT="18" DEPTH="64" TEXTDIMENSION="1770 x 18  x 64" COMPONENT="N" STRUCTURE="N" FAMILY="Prateleiras" GROUP="Molduras Lineares" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Prateleiras\tel_prat_reguas\molduras_lineares\REGUA_5.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="5157" UNIQUEPARENTID="5149" GUID="f1447e74-1245-4ed3-9261-63e2e36fe8fd" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="31.69" UNIT="56.09" TOTAL="56.09">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="52.14" TOTAL="52.14">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="56.09" INVALUE="56.09" OUTVALUE="63.74" MONETARYVALUE="7.65" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="63.74" INVALUE="63.74" OUTVALUE="52.27" MONETARYVALUE="-11.47" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="52.27" INVALUE="52.27" OUTVALUE="49.66" MONETARYVALUE="-2.61" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="49.66" INVALUE="49.66" OUTVALUE="49.66" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="49.66" INVALUE="49.66" OUTVALUE="49.66" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="49.66" INVALUE="49.66" OUTVALUE="49.66" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="49.66" INVALUE="49.66" OUTVALUE="49.66" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="49.66" INVALUE="49.66" OUTVALUE="52.14" MONETARYVALUE="2.48" />
+                  </ORDER>
+                  <BUDGET UNIT="91.77" TOTAL="91.77">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" OPERATOR="+" VALUE="76" CALCULUSVALUE="52.14" INVALUE="52.14" OUTVALUE="91.77" MONETARYVALUE="39.63" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="91.77" INVALUE="91.77" OUTVALUE="91.77" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="91.77" INVALUE="91.77" OUTVALUE="91.77" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U100322-1770-1048" />
+                <MODELNAME REFERENCE="MDP\1046 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U100322" />
+                <MODEL_PRICE REFERENCE="1048" />
+                <PRICE REFERENCE="U100322-1048" />
+                <MODEL REFERENCE="1770-1048" />
+                <MOD_DESC REFERENCE="MDP Branco" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="tel_prat_bor_4_lad_esp_18mm" DESCRIPTION="Prat Linear 18mm - Borda 4 Lados - MDF Branco" OBSERVATIONS="" REFERENCE="U900004-1200-348-1047" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="1200" HEIGHT="18" DEPTH="348" TEXTDIMENSION="1200 x 18  x 348" COMPONENT="N" STRUCTURE="N" FAMILY="Prateleiras" GROUP="Borda 4L" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Prateleiras\tel_prat_lineares\tel_prat_bor_4_lados\N103070_10_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4984" UNIQUEPARENTID="-2" GUID="924ff442-8b84-4c45-b754-46d08fdada3a" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="141.09" UNIT="58.92" TOTAL="58.92">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="54.77" TOTAL="54.77">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="58.92" INVALUE="58.92" OUTVALUE="66.95" MONETARYVALUE="8.03" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="66.95" INVALUE="66.95" OUTVALUE="54.9" MONETARYVALUE="-12.05" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="54.9" INVALUE="54.9" OUTVALUE="52.16" MONETARYVALUE="-2.74" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="52.16" INVALUE="52.16" OUTVALUE="52.16" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="52.16" INVALUE="52.16" OUTVALUE="52.16" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="52.16" INVALUE="52.16" OUTVALUE="52.16" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="52.16" INVALUE="52.16" OUTVALUE="52.16" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="52.16" INVALUE="52.16" OUTVALUE="54.77" MONETARYVALUE="2.61" />
+                  </ORDER>
+                  <BUDGET UNIT="96.4" TOTAL="96.4">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" OPERATOR="+" VALUE="76" CALCULUSVALUE="54.77" INVALUE="54.77" OUTVALUE="96.4" MONETARYVALUE="41.63" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="96.4" INVALUE="96.4" OUTVALUE="96.4" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="96.4" INVALUE="96.4" OUTVALUE="96.4" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U900004-1200-348-1047" />
+                <MODELNAME REFERENCE="MDF\1047 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U900004" />
+                <MODEL REFERENCE="1200-348-1047" />
+                <PRICE REFERENCE="U900004-1047" />
+                <MOD_DESC REFERENCE="MDF Branco" />
+                <MODEL_PRICE REFERENCE="1047" />
+                <TIPO_PRAT REFERENCE="BP" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="tel_prat_bor_4_lad_esp_18mm" DESCRIPTION="Prat Linear 18mm - Borda 4 Lados - MDP Branco" OBSERVATIONS="" REFERENCE="U900004-381-348-1048" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="381" HEIGHT="18" DEPTH="348" TEXTDIMENSION="381 x 18  x 348" COMPONENT="N" STRUCTURE="N" FAMILY="Prateleiras" GROUP="Borda 4L" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Prateleiras\tel_prat_lineares\tel_prat_bor_4_lados\N103070_10_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4977" UNIQUEPARENTID="-2" GUID="50c41ded-19f5-42c0-bded-19bb5dd9f218" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="122.66" UNIT="16.26" TOTAL="16.26">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="15.11" TOTAL="15.11">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="16.26" INVALUE="16.26" OUTVALUE="18.48" MONETARYVALUE="2.22" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="18.48" INVALUE="18.48" OUTVALUE="15.15" MONETARYVALUE="-3.33" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="15.15" INVALUE="15.15" OUTVALUE="14.39" MONETARYVALUE="-0.76" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="14.39" INVALUE="14.39" OUTVALUE="14.39" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="14.39" INVALUE="14.39" OUTVALUE="14.39" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="14.39" INVALUE="14.39" OUTVALUE="14.39" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="14.39" INVALUE="14.39" OUTVALUE="14.39" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="14.39" INVALUE="14.39" OUTVALUE="15.11" MONETARYVALUE="0.72" />
+                  </ORDER>
+                  <BUDGET UNIT="26.59" TOTAL="26.59">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" OPERATOR="+" VALUE="76" CALCULUSVALUE="15.11" INVALUE="15.11" OUTVALUE="26.59" MONETARYVALUE="11.48" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="26.59" INVALUE="26.59" OUTVALUE="26.59" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="26.59" INVALUE="26.59" OUTVALUE="26.59" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U900004-381-348-1048" />
+                <MODELNAME REFERENCE="MDP\1048 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U900004" />
+                <MODEL REFERENCE="381-348-1048" />
+                <PRICE REFERENCE="U900004-1048" />
+                <MOD_DESC REFERENCE="MDP Branco" />
+                <MODEL_PRICE REFERENCE="1048" />
+                <TIPO_PRAT REFERENCE="BP" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="tel_prat_bor_4_lad_esp_18mm" DESCRIPTION="Prat Linear 18mm - Borda 4 Lados - MDP Branco" OBSERVATIONS="" REFERENCE="U900004-550-348-1048" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="550" HEIGHT="18" DEPTH="348" TEXTDIMENSION="550 x 18  x 348" COMPONENT="N" STRUCTURE="N" FAMILY="Prateleiras" GROUP="Borda 4L" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Prateleiras\tel_prat_lineares\tel_prat_bor_4_lados\N103070_10_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4973" UNIQUEPARENTID="-2" GUID="d0f6be9d-f9eb-4b6a-b8cb-c9a3e34ec009" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="122.66" UNIT="23.48" TOTAL="23.48">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="21.83" TOTAL="21.83">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="23.48" INVALUE="23.48" OUTVALUE="26.68" MONETARYVALUE="3.2" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="26.68" INVALUE="26.68" OUTVALUE="21.88" MONETARYVALUE="-4.8" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="21.88" INVALUE="21.88" OUTVALUE="20.79" MONETARYVALUE="-1.09" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="20.79" INVALUE="20.79" OUTVALUE="20.79" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="20.79" INVALUE="20.79" OUTVALUE="20.79" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="20.79" INVALUE="20.79" OUTVALUE="20.79" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="20.79" INVALUE="20.79" OUTVALUE="20.79" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="20.79" INVALUE="20.79" OUTVALUE="21.83" MONETARYVALUE="1.04" />
+                  </ORDER>
+                  <BUDGET UNIT="38.42" TOTAL="38.42">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" OPERATOR="+" VALUE="76" CALCULUSVALUE="21.83" INVALUE="21.83" OUTVALUE="38.42" MONETARYVALUE="16.59" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="38.42" INVALUE="38.42" OUTVALUE="38.42" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="38.42" INVALUE="38.42" OUTVALUE="38.42" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U900004-550-348-1048" />
+                <MODELNAME REFERENCE="MDP\1048 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U900004" />
+                <MODEL REFERENCE="550-348-1048" />
+                <PRICE REFERENCE="U900004-1048" />
+                <MOD_DESC REFERENCE="MDP Branco" />
+                <MODEL_PRICE REFERENCE="1048" />
+                <TIPO_PRAT REFERENCE="BP" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="tel_prat_bor_4_lad_esp_18mm" DESCRIPTION="Prat Linear 18mm - Borda 4 Lados - MDP Branco" OBSERVATIONS="" REFERENCE="U900004-544-348-1048" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="544" HEIGHT="18" DEPTH="348" TEXTDIMENSION="544 x 18  x 348" COMPONENT="N" STRUCTURE="N" FAMILY="Prateleiras" GROUP="Borda 4L" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Prateleiras\tel_prat_lineares\tel_prat_bor_4_lados\N103070_10_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4975" UNIQUEPARENTID="-2" GUID="e70b18cf-9305-45bb-a9db-d09003c77a7f" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="122.66" UNIT="23.22" TOTAL="23.22">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="21.59" TOTAL="21.59">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="23.22" INVALUE="23.22" OUTVALUE="26.39" MONETARYVALUE="3.17" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="26.39" INVALUE="26.39" OUTVALUE="21.64" MONETARYVALUE="-4.75" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="21.64" INVALUE="21.64" OUTVALUE="20.56" MONETARYVALUE="-1.08" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="20.56" INVALUE="20.56" OUTVALUE="20.56" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="20.56" INVALUE="20.56" OUTVALUE="20.56" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="20.56" INVALUE="20.56" OUTVALUE="20.56" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="20.56" INVALUE="20.56" OUTVALUE="20.56" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="20.56" INVALUE="20.56" OUTVALUE="21.59" MONETARYVALUE="1.03" />
+                  </ORDER>
+                  <BUDGET UNIT="38" TOTAL="38">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" OPERATOR="+" VALUE="76" CALCULUSVALUE="21.59" INVALUE="21.59" OUTVALUE="38" MONETARYVALUE="16.41" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="38" INVALUE="38" OUTVALUE="38" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="38" INVALUE="38" OUTVALUE="38" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U900004-544-348-1048" />
+                <MODELNAME REFERENCE="MDP\1048 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U900004" />
+                <MODEL REFERENCE="544-348-1048" />
+                <PRICE REFERENCE="U900004-1048" />
+                <MOD_DESC REFERENCE="MDP Branco" />
+                <MODEL_PRICE REFERENCE="1048" />
+                <TIPO_PRAT REFERENCE="BP" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="tel_prat_bor_4_lad_esp_18mm" DESCRIPTION="Prat Linear 18mm - Borda 4 Lados - MDP Branco" OBSERVATIONS="" REFERENCE="U900004-1200-348-1048" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="1200" HEIGHT="18" DEPTH="348" TEXTDIMENSION="1200 x 18  x 348" COMPONENT="N" STRUCTURE="N" FAMILY="Prateleiras" GROUP="Borda 4L" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Prateleiras\tel_prat_lineares\tel_prat_bor_4_lados\N103070_10_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4915" UNIQUEPARENTID="-2" GUID="8c7a714b-b5cc-4a63-b7c0-94381e197e15" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="122.66" UNIT="51.22" TOTAL="51.22">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="47.6" TOTAL="47.6">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="51.22" INVALUE="51.22" OUTVALUE="58.2" MONETARYVALUE="6.98" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="58.2" INVALUE="58.2" OUTVALUE="47.72" MONETARYVALUE="-10.48" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="47.72" INVALUE="47.72" OUTVALUE="45.33" MONETARYVALUE="-2.39" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="45.33" INVALUE="45.33" OUTVALUE="45.33" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="45.33" INVALUE="45.33" OUTVALUE="45.33" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="45.33" INVALUE="45.33" OUTVALUE="45.33" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="45.33" INVALUE="45.33" OUTVALUE="45.33" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="45.33" INVALUE="45.33" OUTVALUE="47.6" MONETARYVALUE="2.27" />
+                  </ORDER>
+                  <BUDGET UNIT="83.78" TOTAL="83.78">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" OPERATOR="+" VALUE="76" CALCULUSVALUE="47.6" INVALUE="47.6" OUTVALUE="83.78" MONETARYVALUE="36.18" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="83.78" INVALUE="83.78" OUTVALUE="83.78" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="83.78" INVALUE="83.78" OUTVALUE="83.78" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U900004-1200-348-1048" />
+                <MODELNAME REFERENCE="MDP\1048 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U900004" />
+                <MODEL REFERENCE="1200-348-1048" />
+                <PRICE REFERENCE="U900004-1048" />
+                <MOD_DESC REFERENCE="MDP Branco" />
+                <MODEL_PRICE REFERENCE="1048" />
+                <TIPO_PRAT REFERENCE="BP" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="tel_prat_bor_4_lad_esp_18mm" DESCRIPTION="Prat Linear 18mm - Borda 4 Lados - MDP Branco" OBSERVATIONS="" REFERENCE="U900004-647-348-1048" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="647" HEIGHT="18" DEPTH="348" TEXTDIMENSION="647 x 18  x 348" COMPONENT="N" STRUCTURE="N" FAMILY="Prateleiras" GROUP="Borda 4L" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Prateleiras\tel_prat_lineares\tel_prat_bor_4_lados\N103070_10_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4907" UNIQUEPARENTID="-2" GUID="c81b1044-8d8b-4178-a508-c3d855450ae3" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="122.66" UNIT="27.62" TOTAL="27.62">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="25.67" TOTAL="25.67">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="27.62" INVALUE="27.62" OUTVALUE="31.39" MONETARYVALUE="3.77" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="31.39" INVALUE="31.39" OUTVALUE="25.74" MONETARYVALUE="-5.65" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="25.74" INVALUE="25.74" OUTVALUE="24.45" MONETARYVALUE="-1.29" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="24.45" INVALUE="24.45" OUTVALUE="24.45" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="24.45" INVALUE="24.45" OUTVALUE="24.45" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="24.45" INVALUE="24.45" OUTVALUE="24.45" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="24.45" INVALUE="24.45" OUTVALUE="24.45" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="24.45" INVALUE="24.45" OUTVALUE="25.67" MONETARYVALUE="1.22" />
+                  </ORDER>
+                  <BUDGET UNIT="45.18" TOTAL="45.18">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" OPERATOR="+" VALUE="76" CALCULUSVALUE="25.67" INVALUE="25.67" OUTVALUE="45.18" MONETARYVALUE="19.51" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="45.18" INVALUE="45.18" OUTVALUE="45.18" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="45.18" INVALUE="45.18" OUTVALUE="45.18" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U900004-647-348-1048" />
+                <MODELNAME REFERENCE="MDP\1048 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U900004" />
+                <MODEL REFERENCE="647-348-1048" />
+                <PRICE REFERENCE="U900004-1048" />
+                <MOD_DESC REFERENCE="MDP Branco" />
+                <MODEL_PRICE REFERENCE="1048" />
+                <TIPO_PRAT REFERENCE="BP" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="tel_prat_bor_4_lad_esp_18mm" DESCRIPTION="Prat Linear 18mm - Borda 4 Lados - MDP Branco" OBSERVATIONS="" REFERENCE="U900004-532-381-1048" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="532" HEIGHT="18" DEPTH="381" TEXTDIMENSION="532 x 18  x 381" COMPONENT="N" STRUCTURE="N" FAMILY="Prateleiras" GROUP="Borda 4L" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Prateleiras\tel_prat_lineares\tel_prat_bor_4_lados\N103070_10_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="4792" UNIQUEPARENTID="-2" GUID="5f2b96ad-d4e6-459b-83ff-059653792913" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="122.66" UNIT="24.86" TOTAL="24.86">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="23.1" TOTAL="23.1">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="24.86" INVALUE="24.86" OUTVALUE="28.25" MONETARYVALUE="3.39" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="28.25" INVALUE="28.25" OUTVALUE="23.16" MONETARYVALUE="-5.09" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="23.16" INVALUE="23.16" OUTVALUE="22" MONETARYVALUE="-1.16" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="22" INVALUE="22" OUTVALUE="22" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="22" INVALUE="22" OUTVALUE="22" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="22" INVALUE="22" OUTVALUE="22" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="22" INVALUE="22" OUTVALUE="22" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="22" INVALUE="22" OUTVALUE="23.1" MONETARYVALUE="1.1" />
+                  </ORDER>
+                  <BUDGET UNIT="40.66" TOTAL="40.66">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" OPERATOR="+" VALUE="76" CALCULUSVALUE="23.1" INVALUE="23.1" OUTVALUE="40.66" MONETARYVALUE="17.56" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="40.66" INVALUE="40.66" OUTVALUE="40.66" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="40.66" INVALUE="40.66" OUTVALUE="40.66" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U900004-532-381-1048" />
+                <MODELNAME REFERENCE="MDP\1048 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U900004" />
+                <MODEL REFERENCE="532-381-1048" />
+                <PRICE REFERENCE="U900004-1048" />
+                <MOD_DESC REFERENCE="MDP Branco" />
+                <MODEL_PRICE REFERENCE="1048" />
+                <TIPO_PRAT REFERENCE="BP" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="tel_prat_bor_4_lad_esp_18mm" DESCRIPTION="Prat Linear 18mm - Borda 4 Lados - MDP Branco" OBSERVATIONS="" REFERENCE="U900004-568-494-1048" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="568" HEIGHT="18" DEPTH="494" TEXTDIMENSION="568 x 18  x 494" COMPONENT="N" STRUCTURE="N" FAMILY="Prateleiras" GROUP="Borda 4L" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Prateleiras\tel_prat_lineares\tel_prat_bor_4_lados\N103070_10_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="3864" UNIQUEPARENTID="-2" GUID="943d970e-55ad-4f78-90cc-c7ed440c0d26" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="122.66" UNIT="34.42" TOTAL="34.42">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="31.99" TOTAL="31.99">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="34.42" INVALUE="34.42" OUTVALUE="39.11" MONETARYVALUE="4.69" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="39.11" INVALUE="39.11" OUTVALUE="32.07" MONETARYVALUE="-7.04" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="32.07" INVALUE="32.07" OUTVALUE="30.47" MONETARYVALUE="-1.6" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="30.47" INVALUE="30.47" OUTVALUE="30.47" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="30.47" INVALUE="30.47" OUTVALUE="30.47" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="30.47" INVALUE="30.47" OUTVALUE="30.47" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="30.47" INVALUE="30.47" OUTVALUE="30.47" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="30.47" INVALUE="30.47" OUTVALUE="31.99" MONETARYVALUE="1.52" />
+                  </ORDER>
+                  <BUDGET UNIT="56.3" TOTAL="56.3">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" OPERATOR="+" VALUE="76" CALCULUSVALUE="31.99" INVALUE="31.99" OUTVALUE="56.3" MONETARYVALUE="24.31" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="56.3" INVALUE="56.3" OUTVALUE="56.3" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="56.3" INVALUE="56.3" OUTVALUE="56.3" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U900004-568-494-1048" />
+                <MODELNAME REFERENCE="MDP\1048 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U900004" />
+                <MODEL REFERENCE="568-494-1048" />
+                <PRICE REFERENCE="U900004-1048" />
+                <MOD_DESC REFERENCE="MDP Branco" />
+                <MODEL_PRICE REFERENCE="1048" />
+                <TIPO_PRAT REFERENCE="BP" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="tel_prat_bor_4_lad_esp_18mm" DESCRIPTION="Prat Linear 18mm - Borda 4 Lados - MDP Branco" OBSERVATIONS="" REFERENCE="U900004-1470-348-1048" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="1470" HEIGHT="18" DEPTH="348" TEXTDIMENSION="1470 x 18  x 348" COMPONENT="N" STRUCTURE="N" FAMILY="Prateleiras" GROUP="Borda 4L" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Prateleiras\tel_prat_lineares\tel_prat_bor_4_lados\N103070_10_2.jpg" EXPLODEDIMAGE="" EXPLODEDIMAGECAPTION="" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Principal" IDPRICESOURCE="Manager" IDPRICETABLE="CFD4BB97-C9D8-488E-8440-ED78C8B289F9" PRICECANMODIFY="Y" UNIQUEID="3749" UNIQUEPARENTID="-2" GUID="56ad0eff-739f-4ddf-b770-387a9124ea3b" INVERTED="" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <PRICE TABLE="122.66" UNIT="62.75" TOTAL="62.75">
+                <EXTRAINFORMATIONS>
+                  <EXTRAINFORMATION ID="NETWEIGHT" COLUMN="NETWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                  <EXTRAINFORMATION ID="GROSSWEIGHT" COLUMN="GROSSWEIGHT" ISNUMBER="Y" TOTALIZE="Y" TABLEVALUE="0.000" TOTALVALUE="0" UNITVALUE="0" />
+                </EXTRAINFORMATIONS>
+                <MARGINS>
+                  <ORDER UNIT="58.33" TOTAL="58.33">
+                    <MARGIN ID="icms" DESCRIPTION="ICMS" OPERATOR="E" VALUE="12" CALCULUSVALUE="62.75" INVALUE="62.75" OUTVALUE="71.31" MONETARYVALUE="8.56" />
+                    <MARGIN ID="desc_1" DESCRIPTION="Desconto 1" OPERATOR="-" VALUE="18" CALCULUSVALUE="71.31" INVALUE="71.31" OUTVALUE="58.47" MONETARYVALUE="-12.84" />
+                    <MARGIN ID="desc_2" DESCRIPTION="Desconto 2" OPERATOR="-" VALUE="5" CALCULUSVALUE="58.47" INVALUE="58.47" OUTVALUE="55.55" MONETARYVALUE="-2.92" />
+                    <MARGIN ID="desc_3" DESCRIPTION="Desconto 3" OPERATOR="-" VALUE="0" CALCULUSVALUE="55.55" INVALUE="55.55" OUTVALUE="55.55" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_4" DESCRIPTION="Desconto 4" OPERATOR="-" VALUE="0" CALCULUSVALUE="55.55" INVALUE="55.55" OUTVALUE="55.55" MONETARYVALUE="0" />
+                    <MARGIN ID="desc_5" DESCRIPTION="Desconto 5" OPERATOR="-" VALUE="0" CALCULUSVALUE="55.55" INVALUE="55.55" OUTVALUE="55.55" MONETARYVALUE="0" />
+                    <MARGIN ID="acr_1" DESCRIPTION="Acréscimo financeiro" OPERATOR="+" VALUE="0" CALCULUSVALUE="55.55" INVALUE="55.55" OUTVALUE="55.55" MONETARYVALUE="0" />
+                    <MARGIN ID="IPI" DESCRIPTION="IPI - Geral" OPERATOR="+" VALUE="5" CALCULUSVALUE="55.55" INVALUE="55.55" OUTVALUE="58.33" MONETARYVALUE="2.78" />
+                  </ORDER>
+                  <BUDGET UNIT="102.66" TOTAL="102.66">
+                    <MARGIN ID="acrescimo" DESCRIPTION="Acréscimo" OPERATOR="+" VALUE="76" CALCULUSVALUE="58.33" INVALUE="58.33" OUTVALUE="102.66" MONETARYVALUE="44.33" />
+                    <MARGIN ID="montagem" DESCRIPTION="Frete" OPERATOR="+" VALUE="0" CALCULUSVALUE="102.66" INVALUE="102.66" OUTVALUE="102.66" MONETARYVALUE="0" />
+                    <MARGIN ID="frete" DESCRIPTION="Montagem" OPERATOR="+" VALUE="0" CALCULUSVALUE="102.66" INVALUE="102.66" OUTVALUE="102.66" MONETARYVALUE="0" />
+                  </BUDGET>
+                </MARGINS>
+              </PRICE>
+              <REFERENCES>
+                <COMPLETE REFERENCE="U900004-1470-348-1048" />
+                <MODELNAME REFERENCE="MDP\1048 - Branco" />
+                <EXPORTXML REFERENCE="tabela_geral" />
+                <CODE REFERENCE="U900004" />
+                <MODEL REFERENCE="1470-348-1048" />
+                <PRICE REFERENCE="U900004-1048" />
+                <MOD_DESC REFERENCE="MDP Branco" />
+                <MODEL_PRICE REFERENCE="1048" />
+                <TIPO_PRAT REFERENCE="BP" />
+              </REFERENCES>
+            </ITEM>
+          </ITEMS>
+        </CATEGORY>
+      </CATEGORIES>
+    </AMBIENT>
+  </AMBIENTS>
+  <METADATAS>
+    <METADATA ID="ONLINELOGID" VALUE="D07383BC-16C3-4DCC-BDEB-CD818DA2E1F0" />
+  </METADATAS>
+</LISTING>
