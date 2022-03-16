@@ -1,0 +1,38 @@
+[2015-11-23 18:57:09] log.ERROR: exception 'ErrorException' with message 'Argument 1 passed to CreateUsersTable::{closure}() must be an instance of Blueprint, instance of Illuminate\Database\Schema\Blueprint given, called in C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Database\Schema\Builder.php on line 89 and defined' in C:\wamp\www\rasador.com.br\app\database\migrations\2015_11_23_185537_create_users_table.php:14
+Stack trace:
+#0 C:\wamp\www\rasador.com.br\app\database\migrations\2015_11_23_185537_create_users_table.php(14): Illuminate\Exception\Handler->handleError(4096, 'Argument 1 pass...', 'C:\\wamp\\www\\ras...', 14, Array)
+#1 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Database\Schema\Builder.php(89): CreateUsersTable->{closure}(Object(Illuminate\Database\Schema\Blueprint))
+#2 C:\wamp\www\rasador.com.br\bootstrap\compiled.php(3339): Illuminate\Database\Schema\Builder->create('users', Object(Closure))
+#3 C:\wamp\www\rasador.com.br\app\database\migrations\2015_11_23_185537_create_users_table.php(25): Illuminate\Support\Facades\Facade::__callStatic('create', Array)
+#4 C:\wamp\www\rasador.com.br\app\database\migrations\2015_11_23_185537_create_users_table.php(25): Illuminate\Support\Facades\Schema::create('users', Object(Closure))
+#5 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php(137): CreateUsersTable->up()
+#6 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php(113): Illuminate\Database\Migrations\Migrator->runUp('2015_11_23_1855...', 1, false)
+#7 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php(84): Illuminate\Database\Migrations\Migrator->runMigrationList(Array, false)
+#8 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Database\Console\Migrations\MigrateCommand.php(67): Illuminate\Database\Migrations\Migrator->run('C:\\wamp\\www\\ras...', false)
+#9 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Console\Command.php(108): Illuminate\Database\Console\Migrations\MigrateCommand->fire()
+#10 C:\wamp\www\rasador.com.br\vendor\symfony\console\Symfony\Component\Console\Command\Command.php(244): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Console\Command.php(96): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 C:\wamp\www\rasador.com.br\vendor\symfony\console\Symfony\Component\Console\Application.php(897): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\wamp\www\rasador.com.br\vendor\symfony\console\Symfony\Component\Console\Application.php(191): Symfony\Component\Console\Application->doRunCommand(Object(Illuminate\Database\Console\Migrations\MigrateCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#14 C:\wamp\www\rasador.com.br\vendor\symfony\console\Symfony\Component\Console\Application.php(121): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\wamp\www\rasador.com.br\artisan(59): Symfony\Component\Console\Application->run()
+#16 {main} [] []
+[2015-11-23 18:58:09] log.ERROR: exception 'ErrorException' with message 'Argument 1 passed to CreateUsersTable::{closure}() must be an instance of Blueprint, instance of Illuminate\Database\Schema\Blueprint given, called in C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Database\Schema\Builder.php on line 89 and defined' in C:\wamp\www\rasador.com.br\app\database\migrations\2015_11_23_185537_create_users_table.php:14
+Stack trace:
+#0 C:\wamp\www\rasador.com.br\app\database\migrations\2015_11_23_185537_create_users_table.php(14): Illuminate\Exception\Handler->handleError(4096, 'Argument 1 pass...', 'C:\\wamp\\www\\ras...', 14, Array)
+#1 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Database\Schema\Builder.php(89): CreateUsersTable->{closure}(Object(Illuminate\Database\Schema\Blueprint))
+#2 C:\wamp\www\rasador.com.br\bootstrap\compiled.php(3339): Illuminate\Database\Schema\Builder->create('users', Object(Closure))
+#3 C:\wamp\www\rasador.com.br\app\database\migrations\2015_11_23_185537_create_users_table.php(23): Illuminate\Support\Facades\Facade::__callStatic('create', Array)
+#4 C:\wamp\www\rasador.com.br\app\database\migrations\2015_11_23_185537_create_users_table.php(23): Illuminate\Support\Facades\Schema::create('users', Object(Closure))
+#5 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php(137): CreateUsersTable->up()
+#6 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php(113): Illuminate\Database\Migrations\Migrator->runUp('2015_11_23_1855...', 1, false)
+#7 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php(84): Illuminate\Database\Migrations\Migrator->runMigrationList(Array, false)
+#8 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Database\Console\Migrations\MigrateCommand.php(67): Illuminate\Database\Migrations\Migrator->run('C:\\wamp\\www\\ras...', false)
+#9 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Console\Command.php(108): Illuminate\Database\Console\Migrations\MigrateCommand->fire()
+#10 C:\wamp\www\rasador.com.br\vendor\symfony\console\Symfony\Component\Console\Command\Command.php(244): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#11 C:\wamp\www\rasador.com.br\vendor\laravel\framework\src\Illuminate\Console\Command.php(96): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 C:\wamp\www\rasador.com.br\vendor\symfony\console\Symfony\Component\Console\Application.php(897): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 C:\wamp\www\rasador.com.br\vendor\symfony\console\Symfony\Component\Console\Application.php(191): Symfony\Component\Console\Application->doRunCommand(Object(Illuminate\Database\Console\Migrations\MigrateCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#14 C:\wamp\www\rasador.com.br\vendor\symfony\console\Symfony\Component\Console\Application.php(121): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 C:\wamp\www\rasador.com.br\artisan(59): Symfony\Component\Console\Application->run()
+#16 {main} [] []

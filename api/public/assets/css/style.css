@@ -1,0 +1,54 @@
+.wpp {
+    height: 25px !important;
+    margin-bottom: 4px
+}
+
+.panel {
+    position: absolute !important;
+    border-radius: 0 !important;
+    background-color: rgba(255, 255, 255, .7) !important;
+    border-color: rgba(255, 255, 255, .7) !important;
+    text-align: center;
+    padding: 10px;
+    margin-left: 60px
+}
+
+.textmod {
+    font-size: 14px !important;
+    color: #000
+}
+
+body {
+    background-color: #fff
+}
+
+.titulo {
+    color: #000;
+    font-size: 16px !important
+}
+
+#img-servicos {
+    height: 70px !important
+}
+
+#img-tecnologia {
+    height: 70px !important
+}
+
+.modal-body {
+    padding: 10px;
+    text-align: center !important
+}
+
+.modal-header {
+    text-align: center !important
+}
+
+.modal-dialog {
+    width: 700px;
+    margin: 30px auto
+}
+
+.modal-title {
+    color: #000
+}
